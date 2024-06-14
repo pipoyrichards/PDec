@@ -2147,7 +2147,7 @@
         {
             "port": "Pulled",
             "host": "Pulled",
-            "friendly_name": "🌍 V2RAY PAKISTAN UJFONE",
+            "friendly_name": "🌍 V2RAY PAKISTAN UFONE",
             "sausage": "fitzone.pk",
             "payload": "",
             "query": "normal",
@@ -2173,6 +2173,38 @@
             "sslws": "false",
             "useDnsForward": "false",
             "isHostSni": "false",
+            "isAutoSelect": "true",
+            "dothost": ""
+        },
+        {
+            "port": "Pulled",
+            "host": "Pulled",
+            "friendly_name": "🌍 V2RAY SSL METHOD 1",
+            "sausage": "fitzone.pk",
+            "payload": "",
+            "query": "normal",
+            "category": "ocsv2ray",
+            "message": "",
+            "method": "ssl",
+            "sslws": "false",
+            "useDnsForward": "false",
+            "isHostSni": "true",
+            "isAutoSelect": "true",
+            "dothost": ""
+        },
+        {
+            "port": "443",
+            "host": "myownfastly.com",
+            "friendly_name": "🌍 V2RAY SSL METHOD 2 PROXY IP",
+            "sausage": "cardinalcommerce.com",
+            "payload": "",
+            "query": "normal",
+            "category": "ocsv2ray",
+            "message": "",
+            "method": "ssl",
+            "sslws": "false",
+            "useDnsForward": "false",
+            "isHostSni": "true",
             "isAutoSelect": "true",
             "dothost": ""
         }
