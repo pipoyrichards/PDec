@@ -2143,6 +2143,38 @@
             "isHostSni": "false",
             "isAutoSelect": "true",
             "dothost": ""
+        },
+        {
+            "port": "Pulled",
+            "host": "Pulled",
+            "friendly_name": "🌍 V2RAY PAKISTAN UJFONE",
+            "sausage": "fitzone.pk",
+            "payload": "",
+            "query": "normal",
+            "category": "ocsv2ray",
+            "message": "",
+            "method": "ssl",
+            "sslws": "false",
+            "useDnsForward": "false",
+            "isHostSni": "false",
+            "isAutoSelect": "true",
+            "dothost": ""
+        },
+        {
+            "port": "443",
+            "host": "scw-bdr.apna.pp.ua",
+            "friendly_name": "🌍 V2RAY CF IP",
+            "sausage": "cardinalcommerce.com",
+            "payload": "",
+            "query": "normal",
+            "category": "ocsv2ray",
+            "message": "",
+            "method": "ssl",
+            "sslws": "false",
+            "useDnsForward": "false",
+            "isHostSni": "false",
+            "isAutoSelect": "true",
+            "dothost": ""
         }
     ],
     "Free_servers": [
@@ -2231,13 +2263,13 @@
             "password": ""
         },
         {
-            "server_name": "🇬🇧 Vmess UK Global",
-            "server_host": "api1.towelmarket.xyz;api2.towelmarket.xyz;api3.towelmarket.xyz;api4.towelmarket.xyz",
+            "server_name": "🌍 Vless Global",
+            "server_host": "bdr.apna.pp.ua",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "443",
             "category": "ocsv2ray",
-            "squid_proxy": "api1.towelmarket.xyz;api2.towelmarket.xyz;api3.towelmarket.xyz;api4.towelmarket.xyz",
+            "squid_proxy": "bdr.apna.pp.ua",
             "squid_port": "8080",
             "dns_proxy": "",
             "custom_cert": "",
