@@ -2164,7 +2164,7 @@
             "port": "Pulled",
             "host": "Pulled",
             "friendly_name": "A - 🌍 SlowDns Cloudflare",
-            "sausage": "8.8.8.8",
+            "sausage": "1.1.1.1",
             "payload": "",
             "query": "slowdns",
             "category": "ocsslowdns",
