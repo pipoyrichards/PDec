@@ -2147,7 +2147,7 @@
         {
             "port": "Pulled",
             "host": "Pulled",
-            "friendly_name": "🌍 A - SlowDns Google",
+            "friendly_name": "A - 🌍 SlowDns Google",
             "sausage": "8.8.8.8",
             "payload": "",
             "query": "slowdns",
@@ -2163,7 +2163,7 @@
         {
             "port": "Pulled",
             "host": "Pulled",
-            "friendly_name": "🌍 A - SlowDns Cloudflare",
+            "friendly_name": "A - 🌍 SlowDns Cloudflare",
             "sausage": "8.8.8.8",
             "payload": "",
             "query": "slowdns",
@@ -2179,7 +2179,7 @@
         {
             "port": "Pulled",
             "host": "Pulled",
-            "friendly_name": "🌍 A - SlowDns ISPDns 01",
+            "friendly_name": "A - 🌍 SlowDns ISPDns 01",
             "sausage": "autodns1",
             "payload": "",
             "query": "slowdns",
@@ -2195,7 +2195,7 @@
         {
             "port": "Pulled",
             "host": "Pulled",
-            "friendly_name": "🌍 A - SlowDns ISPDns 02",
+            "friendly_name": "A - 🌍 SlowDns ISPDns 02",
             "sausage": "autodns2",
             "payload": "",
             "query": "slowdns",
@@ -2211,7 +2211,7 @@
         {
             "port": "Pulled",
             "host": "Pulled",
-            "friendly_name": "🌍 A - FastDns",
+            "friendly_name": "A - 🌍 FastDns",
             "sausage": "",
             "payload": "",
             "query": "slowdns",
@@ -2553,5 +2553,5 @@
     "Vip_servers": [],
     "Private_servers": [],
     "Version": "5.6:62.0",
-    "Changelogs": "🌎 SlowDns Beta\n\n- If not connected, please try other network options from this app\n- اگر متصل نیستید، لطفاً سایر گزینه های شبکه را از این برنامه امتحان کنید\n- Baglanmadyk bolsaňyz, bu programmadan beýleki ulgam opsiýalaryny synap görüň"
+    "Changelogs": "🌎 Servers Reconfigured\n\n- If not connected, please try other network options from this app\n- اگر متصل نیستید، لطفاً سایر گزینه های شبکه را از این برنامه امتحان کنید\n- Baglanmadyk bolsaňyz, bu programmadan beýleki ulgam opsiýalaryny synap görüň"
 }
