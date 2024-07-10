@@ -2536,12 +2536,12 @@
         },
         {
             "server_name": "🇳🇱 SlowDNS NL (Amsterdam)",
-            "server_host": "t1.maxcdnify.org",
+            "server_host": "udp-nl1.maxcdnify.org",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "443",
             "category": "ocsslowdns",
-            "squid_proxy": "t1.maxcdnify.org",
+            "squid_proxy": "udp-nl1.maxcdnify.org",
             "squid_port": "8080",
             "dns_proxy": "",
             "custom_cert": "",
@@ -2553,5 +2553,5 @@
     "Vip_servers": [],
     "Private_servers": [],
     "Version": "5.6:62.0",
-    "Changelogs": "🌎 Servers Reconfigured\n\n- If not connected, please try other network options from this app\n- اگر متصل نیستید، لطفاً سایر گزینه های شبکه را از این برنامه امتحان کنید\n- Baglanmadyk bolsaňyz, bu programmadan beýleki ulgam opsiýalaryny synap görüň"
+    "Changelogs": "🌎 SlowDns Beta\n\n- If not connected, please try other network options from this app\n- اگر متصل نیستید، لطفاً سایر گزینه های شبکه را از این برنامه امتحان کنید\n- Baglanmadyk bolsaňyz, bu programmadan beýleki ulgam opsiýalaryny synap görüň"
 }
