@@ -2224,7 +2224,7 @@
             "isAutoSelect": "true",
             "dothost": ""
         },
-        {
+		{
             "port": "Pulled",
             "host": "Pulled",
             "friendly_name": "A2 - 🇵🇭 STS SlowDns 01",
@@ -2240,11 +2240,11 @@
             "isAutoSelect": "true",
             "dothost": ""
         },
-        {
+		{
             "port": "Pulled",
             "host": "Pulled",
             "friendly_name": "A2 - 🇵🇭 STS SlowDns 02",
-            "sausage": "121.54.70.148",
+            "sausage": "121.54.70.149",
             "payload": "",
             "query": "slowdns",
             "category": "ocsslowdns",
