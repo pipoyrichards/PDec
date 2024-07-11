@@ -2195,22 +2195,6 @@
         {
             "port": "Pulled",
             "host": "Pulled",
-            "friendly_name": "A2 - 🌍 SlowDns OpenDns",
-            "sausage": "208.67.220.220",
-            "payload": "",
-            "query": "slowdns",
-            "category": "ocsslowdns",
-            "message": "",
-            "method": "ssl",
-            "sslws": "false",
-            "useDnsForward": "false",
-            "isHostSni": "false",
-            "isAutoSelect": "true",
-            "dothost": ""
-        },
-        {
-            "port": "Pulled",
-            "host": "Pulled",
             "friendly_name": "A2 - 🌍 SlowDns ISPDns 01",
             "sausage": "autodns1",
             "payload": "",
