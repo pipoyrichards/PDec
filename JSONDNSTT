@@ -2224,7 +2224,7 @@
             "isAutoSelect": "true",
             "dothost": ""
         },
-		{
+        {
             "port": "Pulled",
             "host": "Pulled",
             "friendly_name": "A2 - 🇵🇭 STS SlowDns",
