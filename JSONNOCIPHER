@@ -2040,12 +2040,12 @@
         },
         {
             "server_name": "🌍 WS Global (N11)",
-            "server_host": "1:1750@.washtreep.info",
+            "server_host": "2001:2200@.washtreep.info",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "443",
             "category": "ocsws",
-            "squid_proxy": "1:1750@.washtreep.info",
+            "squid_proxy": "2001:2200@.washtreep.info",
             "squid_port": "8080",
             "dns_proxy": "",
             "custom_cert": "",
@@ -2056,6 +2056,6 @@
     "Premium_servers": [],
     "Vip_servers": [],
     "Private_servers": [],
-    "Version": "5.8:62.0",
+    "Version": "5.9:62.0",
     "Changelogs": "🌎 Network Updates\n\nSelect Auto Select Server for Best Performance\nبرای بهترین عملکرد، Auto Select Server را انتخاب کنید\nIň oňat öndürijilik üçin Auto Select Server saýlaň\n\n- If not connected, please try other network options from this app\n- اگر متصل نیستید، لطفاً سایر گزینه های شبکه را از این برنامه امتحان کنید\n- Baglanmadyk bolsaňyz, bu programmadan beýleki ulgam opsiýalaryny synap görüň"
 }
