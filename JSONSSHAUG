@@ -14,7 +14,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -31,7 +30,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -48,7 +46,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -65,7 +62,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -82,7 +78,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -99,7 +94,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -116,7 +110,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -149,7 +142,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -166,7 +158,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -183,7 +174,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -200,7 +190,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -217,7 +206,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -234,7 +222,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -251,7 +238,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -268,7 +254,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -285,7 +270,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -302,7 +286,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -319,7 +302,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -336,7 +318,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -353,7 +334,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -370,7 +350,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -387,7 +366,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -404,7 +382,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -421,7 +398,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -438,7 +414,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -455,7 +430,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -472,7 +446,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -489,7 +462,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -506,7 +478,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -523,7 +494,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -540,7 +510,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -557,7 +526,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -574,7 +542,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -591,7 +558,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -608,7 +574,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -625,7 +590,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -642,7 +606,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -659,7 +622,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -676,7 +638,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -693,7 +654,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -710,7 +670,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -727,7 +686,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -744,7 +702,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -761,7 +718,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -778,7 +734,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -795,7 +750,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -812,7 +766,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -829,7 +782,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -846,7 +798,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -863,7 +814,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -880,7 +830,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -897,7 +846,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -914,7 +862,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -931,7 +878,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -948,7 +894,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -965,7 +910,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -982,7 +926,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -999,7 +942,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1016,7 +958,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1033,7 +974,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1050,7 +990,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1067,7 +1006,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1084,7 +1022,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1101,7 +1038,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1118,7 +1054,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1135,7 +1070,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1152,7 +1086,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1169,7 +1102,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1186,7 +1118,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1203,7 +1134,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1220,7 +1150,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1237,7 +1166,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1254,7 +1182,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1271,7 +1198,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1288,7 +1214,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1305,7 +1230,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1322,7 +1246,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1339,7 +1262,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1356,7 +1278,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1373,7 +1294,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1390,7 +1310,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1407,7 +1326,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1424,7 +1342,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1441,7 +1358,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1458,7 +1374,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1475,7 +1390,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1492,7 +1406,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1509,7 +1422,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1526,7 +1438,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "true",
             "dothost": ""
         },
         {
@@ -1543,7 +1454,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1560,7 +1470,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1577,7 +1486,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1594,7 +1502,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1611,7 +1518,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1628,7 +1534,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1645,7 +1550,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1662,7 +1566,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1679,7 +1582,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1696,7 +1598,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1713,7 +1614,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1730,7 +1630,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1747,7 +1646,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1764,7 +1662,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1781,7 +1678,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1798,7 +1694,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1815,7 +1710,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1832,7 +1726,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1849,7 +1742,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1866,7 +1758,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1883,7 +1774,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1900,7 +1790,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1917,7 +1806,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1934,7 +1822,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1951,7 +1838,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1968,7 +1854,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -1985,7 +1870,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2002,7 +1886,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2019,7 +1902,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2036,7 +1918,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2053,7 +1934,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2070,7 +1950,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2087,7 +1966,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2104,7 +1982,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2121,7 +1998,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2138,7 +2014,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2155,7 +2030,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2172,7 +2046,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2189,7 +2062,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2206,7 +2078,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2223,7 +2094,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2240,7 +2110,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2257,7 +2126,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2274,7 +2142,6 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2291,7 +2158,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2308,7 +2174,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2325,7 +2190,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2342,7 +2206,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2359,7 +2222,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2376,7 +2238,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         },
         {
@@ -2393,7 +2254,6 @@
             "useDnsForward": "false",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isRvSsl": "false",
             "dothost": ""
         }
     ],
@@ -2782,7 +2642,6 @@
     "Private_servers": [],
     "Version": "7.1:62.0",
     "DoesSupportSSH": "true",
-	"DoesUseDB": "true",
     "FrontMeek": "temu.com;spacex.com;jamanetwork.com;customeridtest.sprouts.com;culturalatlas.sbs.com.au;autodiscover.itec.suny.edu;lyncweb-ext.srpnet.com;stage-mg2access.journal-news.com;local.seattlepi.com;eventrsvpstage.splcenter.org;sunglasshut.com;press.na.square-enix.com;merchantsignage.visa.com;autodiscover.salliemae.com;volvocars.com;specialsections.sgvtribune.com;social.spectrumreach.com;rs-stripe.interestingengineering.com;microsoft.com;safety.cbssports.com;office.com;office365.com;proxy.markets.businessinsider.com;mycostcoaccount.costco.com;winoverwatch.tacobell.com;travelexpensecusadv.cusa.canon.com;theloft.tractorsupply.com;thecommunicationzone.booking.com;smokiespermits.nps.gov;scim.nesn.com;royalstore.king.com;pm-read.carmax.com;pimstage.olivegarden.com;pages.am.kohls.com;mmlfaq.ncaa.com;media2.townhall.com;intelligenthome-northeast-dsp.aiprx.timewarnercable.com;gcoid-tfs.toyota.com;fulcrum.partners.nvidia.com;enterpriseregistration.bodybuilding.com;content.bettycrocker.com;citrix.kroger.com;archive.nationalgeographic.com",
     "BackMeek": "marca.com;payments.avianca.com;dc.jdpower.com;affiliate-cn.junglescout.com;claxy.com;resources.edb.gov.hk;api.avclabs.com;comps.trustedreviews.com;concierge.comparecards.com;chronicle.com;sli.artofmanliness.com;updates.arlo.com;marcus.com;media.everlane.com;brochure.harley-davidson.com;dat.com;upgradedpoints.com;ext-data.rocketreach.co;thewalkingcompany.com;permutive.businessinsider.com;tphgtm.thepennyhoarder.com;metrics.newegg.com;bodybuilding.com;email.email-vero.beenverified.com;meilisearch-poc.tasteofhome.com;bustle.com;chaseoffers.chase.com;keen.cheatsheet.com;sli.newegg.com;council.nyc.gov;op.gg;bsxplayerv2.bluestacks.com;nav.btc.com;mo.camscanner.com;maps.metmuseum.org;act.alz.org;vote.ada.org;mckesson.com;brb.aritzia.com;samaritanspurse.org;holiday-retirement.familysurvey.sgizmo.com;stores.saksoff5th.com;saksfifthavenue.com",
     "Changelogs": "🌎 New Method\n\n- If not connected, please try other network options from this app\n- اگر متصل نیستید، لطفاً سایر گزینه های شبکه را از این برنامه امتحان کنید\n- Baglanmadyk bolsaňyz, bu programmadan beýleki ulgam opsiýalaryny synap görüň"
