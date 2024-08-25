@@ -2192,9 +2192,9 @@
             "isAutoSelect": "true",
             "dothost": ""
         },
-        {
-            "port": "www.airtel.in",
-            "host": "80",
+		{
+            "port": "80",
+            "host": "www.airtel.in",
             "friendly_name": "🌍 Airtel Psiphon Test",
             "sausage": "",
             "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
