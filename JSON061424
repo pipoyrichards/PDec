@@ -2084,7 +2084,7 @@
     "Free_servers": [
         {
             "server_name": "🇬🇧 UDP UK (Coventry)",
-            "server_host": "udp-uk1.maxcdnify.org;udp-uk2.maxcdnify.org;udp-uk3.maxcdnify.org;udp-uk4.maxcdnify.org",
+            "server_host": "udp-uk1.maxcdnify.org;udp-uk2.maxcdnify.org;udp-uk3.maxcdnify.org;udp-uk5.maxcdnify.org",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2097,8 +2097,8 @@
             "password": ""
         },
         {
-            "server_name": "🇬🇧 UDP UK (Maidenhead)",
-            "server_host": "udp-uk5.maxcdnify.org;udp-uk6.maxcdnify.org;udp-uk7.maxcdnify.org",
+            "server_name": "🇺🇲 UDP US (Ashburn)",
+            "server_host": "udp-ashb1.maxcdnify.org;udp-ashb2.maxcdnify.org;udp-ashb3.maxcdnify.org",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2450,6 +2450,6 @@
     "Premium_servers": [],
     "Vip_servers": [],
     "Private_servers": [],
-    "Version": "6.9:62.0",
+    "Version": "7.0:62.0",
     "Changelogs": "🌎 Network Updates\n\n- If not connected, please try other network options from this app\n- اگر متصل نیستید، لطفاً سایر گزینه های شبکه را از این برنامه امتحان کنید\n- Baglanmadyk bolsaňyz, bu programmadan beýleki ulgam opsiýalaryny synap görüň"
 }
