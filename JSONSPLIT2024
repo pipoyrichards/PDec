@@ -1628,8 +1628,22 @@
     ],
     "Free_servers": [
         {
-            "server_name": "🇬🇧 UDP UK",
-            "server_host": "udp-uk1.maxcdnify.org;udp-uk2.maxcdnify.org;udp-uk3.maxcdnify.org;udp-uk4.maxcdnify.org",
+            "server_name": "🇬🇧 UDP UK (Coventry)",
+            "server_host": "udp-uk1.maxcdnify.org;udp-uk2.maxcdnify.org;udp-uk3.maxcdnify.org;udp-uk5.maxcdnify.org",
+            "server_port": "",
+            "server_udp_port": "",
+            "ssl_port": "",
+            "category": "ocsudp",
+            "squid_proxy": "",
+            "squid_port": "",
+            "dns_proxy": "",
+            "custom_cert": "",
+            "username": "",
+            "password": ""
+        },
+        {
+            "server_name": "🇺🇲 UDP US (Ashburn)",
+            "server_host": "udp-ashb1.maxcdnify.org;udp-ashb2.maxcdnify.org;udp-ashb3.maxcdnify.org",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1670,7 +1684,7 @@
             "password": ""
         },
         {
-            "server_name": "🇺🇲 UDP US (Los Angeles)",
+            "server_name": "🇺🇲 UDP US 01 (Los Angeles)",
             "server_host": "udp-la1.maxcdnify.org;udp-la2.maxcdnify.org;udp-la3.maxcdnify.org",
             "server_port": "",
             "server_udp_port": "",
@@ -1684,8 +1698,50 @@
             "password": ""
         },
         {
-            "server_name": "🇳🇱 UDP NL (Amsterdam)",
+            "server_name": "🇺🇲 UDP US 02 (Los Angeles)",
+            "server_host": "udp-la4.maxcdnify.org;udp-la5.maxcdnify.org;udp-la6.maxcdnify.org",
+            "server_port": "",
+            "server_udp_port": "",
+            "ssl_port": "",
+            "category": "ocsudp",
+            "squid_proxy": "",
+            "squid_port": "",
+            "dns_proxy": "",
+            "custom_cert": "",
+            "username": "",
+            "password": ""
+        },
+        {
+            "server_name": "🇺🇲 UDP US (New York)",
+            "server_host": "udp-ny1.maxcdnify.org;udp-ny2.maxcdnify.org;udp-ny3.maxcdnify.org",
+            "server_port": "",
+            "server_udp_port": "",
+            "ssl_port": "",
+            "category": "ocsudp",
+            "squid_proxy": "",
+            "squid_port": "",
+            "dns_proxy": "",
+            "custom_cert": "",
+            "username": "",
+            "password": ""
+        },
+        {
+            "server_name": "🇳🇱 UDP NL 01 (Amsterdam)",
             "server_host": "udp-nl1.maxcdnify.org;udp-nl2.maxcdnify.org;udp-nl3.maxcdnify.org",
+            "server_port": "",
+            "server_udp_port": "",
+            "ssl_port": "",
+            "category": "ocsudp",
+            "squid_proxy": "",
+            "squid_port": "",
+            "dns_proxy": "",
+            "custom_cert": "",
+            "username": "",
+            "password": ""
+        },
+        {
+            "server_name": "🇳🇱 UDP NL 02 (Amsterdam)",
+            "server_host": "udp-nl4.maxcdnify.org;udp-nl5.maxcdnify.org;udp-nl6.maxcdnify.org",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1939,6 +1995,6 @@
     "Premium_servers": [],
     "Vip_servers": [],
     "Private_servers": [],
-    "Version": "7.8:62.0",
+    "Version": "7.9:62.0",
     "Changelogs": "🌎 Servers Reconfigured\n\nSelect Auto Select Server for Best Performance\nبرای بهترین عملکرد، Auto Select Server را انتخاب کنید\nIň oňat öndürijilik üçin Auto Select Server saýlaň\n\n- If not connected, please try other network options from this app\n- اگر متصل نیستید، لطفاً سایر گزینه های شبکه را از این برنامه امتحان کنید\n- Baglanmadyk bolsaňyz, bu programmadan beýleki ulgam opsiýalaryny synap görüň"
 }
