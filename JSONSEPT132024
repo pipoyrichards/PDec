@@ -390,11 +390,28 @@
             "isHostResolve": "false",
             "dothost": ""
         },
-		{
+        {
             "port": "443",
             "host": "Pulled",
             "friendly_name": "B - 🌎 All Country (V2RAY 01)",
             "sausage": "cardinalcommerce.com",
+            "payload": "",
+            "query": "normal",
+            "category": "ocsv2ray",
+            "message": "",
+            "method": "ssl",
+            "sslws": "false",
+            "useDnsForward": "false",
+            "isHostSni": "false",
+            "isAutoSelect": "true",
+            "isHostResolve": "false",
+            "dothost": ""
+        },
+        {
+            "port": "443",
+            "host": "Pulled",
+            "friendly_name": "B - 🌎 All Country (V2RAY TEST)",
+            "sausage": "hostjio.com",
             "payload": "",
             "query": "normal",
             "category": "ocsv2ray",
@@ -2272,6 +2289,18 @@
         {
             "server_name": "🌍 Vless Worker Global",
             "server_host": "fast5.fastnet.dns-dynamic.net~P+2rL1+Vk69KBKXlaCu8QUNJJoj2TjjYdl77ezpN6VzSuTkhyo2ydUHg54Xhp7X0~/?ed=2560",
+            "server_port": "",
+            "server_udp_port": "",
+            "ssl_port": "",
+            "category": "ocsv2ray",
+            "squid_port": "",
+            "custom_cert": "",
+            "username": "",
+            "password": ""
+        },
+        {
+            "server_name": "🌍 Vless CF Global",
+            "server_host": "vless.bdncdn.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
