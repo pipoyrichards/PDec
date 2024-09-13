@@ -424,7 +424,7 @@
             "isHostResolve": "false",
             "dothost": ""
         },
-        {
+		{
             "port": "443",
             "host": "Pulled",
             "friendly_name": "B - 🌎 All Country (V2RAY TEST 02)",
@@ -1923,7 +1923,24 @@
         {
             "port": "443",
             "host": "[cdnh]",
-            "friendly_name": "A - 🔥 Filter Breaker (BSSLAuto)",
+            "friendly_name": "A - 🔥 Filter Breaker (BSSLAuto 01)",
+            "sausage": "",
+            "payload": "GET / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]~[rotate]",
+            "query": "normal",
+            "category": "ocsws",
+            "message": "(شبکه تصادفی خودکار) اجازه دهید به شما متصل شود",
+            "method": "http",
+            "sslws": "true",
+            "useDnsForward": "true",
+            "isHostSni": "false",
+            "isAutoSelect": "true",
+            "isHostResolve": "false",
+            "dothost": ""
+        },
+		{
+            "port": "443",
+            "host": "[sr]",
+            "friendly_name": "A - 🔥 Filter Breaker (BSSLAuto 02)",
             "sausage": "",
             "payload": "GET / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]~[rotate]",
             "query": "normal",
