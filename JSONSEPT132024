@@ -1004,23 +1004,6 @@
         },
         {
             "port": "80",
-            "host": "Pulled",
-            "friendly_name": "🇨🇲 MTN Cameroon 03 (TEST)",
-            "sausage": "",
-            "payload": "HTTP/1.1 200[crlf]Host: [rotate=aws.amazon.com;sm.ooredoo.dz;www.bing.com;www.garena.com;www.terra.com;materiais.alura.com.br;cf-assets.incaptcha.com;www.pubgmobile.com;ems25.your-freedom.de;list.tmall.com;mcompany.netmarble.com;ns.adobe.com;m.soundcloud.com][crlf]Connection: Keep-Alive[crlf]User-Agent : [ua][crlf][crlf]",
-            "query": "normal",
-            "category": "ocsnormal",
-            "message": "Request Tunnel",
-            "method": "http",
-            "sslws": "false",
-            "useDnsForward": "true",
-            "isHostSni": "false",
-            "isAutoSelect": "false",
-            "isHostResolve": "true",
-            "dothost": ""
-        },
-        {
-            "port": "80",
             "host": "www.ooredoo.qa",
             "friendly_name": "🇶🇦 Qatar Ooredoo 30/60",
             "sausage": "",
@@ -1050,7 +1033,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1067,7 +1050,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1084,7 +1067,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1101,7 +1084,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1118,7 +1101,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1135,7 +1118,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1152,7 +1135,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1169,7 +1152,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1186,7 +1169,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1203,7 +1186,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1220,7 +1203,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1237,7 +1220,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1254,7 +1237,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1271,7 +1254,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1288,7 +1271,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1305,7 +1288,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1322,7 +1305,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1339,7 +1322,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1356,7 +1339,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1373,7 +1356,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1390,7 +1373,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1407,7 +1390,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1424,7 +1407,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1441,7 +1424,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1458,7 +1441,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1475,7 +1458,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -1492,7 +1475,7 @@
             "useDnsForward": "true",
             "isHostSni": "false",
             "isAutoSelect": "true",
-            "isHostResolve": "false",
+            "isHostResolve": "true",
             "dothost": ""
         },
         {
@@ -2398,18 +2381,6 @@
         {
             "server_name": "🌍 Normal Global",
             "server_host": "1:2000@.maxcdnify.org",
-            "server_port": "1194",
-            "server_udp_port": "53",
-            "ssl_port": "443",
-            "category": "ocsnormal",
-            "squid_port": "8080",
-            "custom_cert": "",
-            "username": "",
-            "password": ""
-        },
-        {
-            "server_name": "🌍 Normal Global Test",
-            "server_host": "23.95.179.161",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "443",
