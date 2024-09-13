@@ -410,7 +410,7 @@
         {
             "port": "443",
             "host": "Pulled",
-            "friendly_name": "B - 🌎 All Country (V2RAY TEST 01)",
+            "friendly_name": "B - 🌎 All Country (V2RAY TEST HOSTJIO)",
             "sausage": "hostjio.com",
             "payload": "",
             "query": "normal",
@@ -424,11 +424,45 @@
             "isHostResolve": "false",
             "dothost": ""
         },
-		{
+        {
             "port": "443",
             "host": "Pulled",
-            "friendly_name": "B - 🌎 All Country (V2RAY TEST 02)",
+            "friendly_name": "B - 🌎 All Country (V2RAY TEST CDNH)",
             "sausage": "[cdnh]",
+            "payload": "",
+            "query": "normal",
+            "category": "ocsv2ray",
+            "message": "",
+            "method": "ssl",
+            "sslws": "false",
+            "useDnsForward": "false",
+            "isHostSni": "false",
+            "isAutoSelect": "false",
+            "isHostResolve": "false",
+            "dothost": ""
+        },
+        {
+            "port": "443",
+            "host": "Pulled",
+            "friendly_name": "B - 🌎 All Country (V2RAY TEST SR)",
+            "sausage": "[sr]",
+            "payload": "",
+            "query": "normal",
+            "category": "ocsv2ray",
+            "message": "",
+            "method": "ssl",
+            "sslws": "false",
+            "useDnsForward": "false",
+            "isHostSni": "false",
+            "isAutoSelect": "false",
+            "isHostResolve": "false",
+            "dothost": ""
+        },
+        {
+            "port": "443",
+            "host": "Pulled",
+            "friendly_name": "B - 🌎 All Country (V2RAY TEST SR SINGLE)",
+            "sausage": "104.16.0.0/17",
             "payload": "",
             "query": "normal",
             "category": "ocsv2ray",
@@ -1937,7 +1971,7 @@
             "isHostResolve": "false",
             "dothost": ""
         },
-		{
+        {
             "port": "443",
             "host": "[sr]",
             "friendly_name": "A - 🔥 Filter Breaker (BSSLAuto 02)",
