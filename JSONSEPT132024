@@ -403,7 +403,7 @@
             "sslws": "false",
             "useDnsForward": "false",
             "isHostSni": "false",
-            "isAutoSelect": "true",
+            "isAutoSelect": "false",
             "isHostResolve": "false",
             "dothost": ""
         },
@@ -420,11 +420,11 @@
             "sslws": "false",
             "useDnsForward": "false",
             "isHostSni": "false",
-            "isAutoSelect": "true",
+            "isAutoSelect": "false",
             "isHostResolve": "false",
             "dothost": ""
         },
-		{
+        {
             "port": "443",
             "host": "Pulled",
             "friendly_name": "B - 🌎 All Country (V2RAY TEST 02)",
@@ -437,7 +437,7 @@
             "sslws": "false",
             "useDnsForward": "false",
             "isHostSni": "false",
-            "isAutoSelect": "true",
+            "isAutoSelect": "false",
             "isHostResolve": "false",
             "dothost": ""
         },
