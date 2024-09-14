@@ -1021,23 +1021,6 @@
         },
         {
             "port": "80",
-            "host": "104.26.14.41;104.26.15.41",
-            "friendly_name": "C - 🇬🇭 Ghana MTN 500MB",
-            "sausage": "",
-            "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
-            "query": "normal",
-            "category": "ocsws",
-            "message": "",
-            "method": "http",
-            "sslws": "false",
-            "useDnsForward": "true",
-            "isHostSni": "false",
-            "isAutoSelect": "true",
-            "isHostResolve": "false",
-            "dothost": ""
-        },
-        {
-            "port": "80",
             "host": "Pulled",
             "friendly_name": "A2 - 🇮🇷 Rightel IR 01",
             "sausage": "",
@@ -1090,7 +1073,7 @@
         {
             "port": "20000-50000",
             "host": "Pulled",
-            "friendly_name": "🇺🇬 Uganda UDP 01",
+            "friendly_name": "C - 🇺🇬 Uganda UDP 01",
             "sausage": "",
             "payload": "",
             "query": "normal",
@@ -1107,7 +1090,7 @@
         {
             "port": "1-65535",
             "host": "Pulled",
-            "friendly_name": "🇺🇬 Uganda UDP 02",
+            "friendly_name": "C - 🇺🇬 Uganda UDP 02",
             "sausage": "",
             "payload": "",
             "query": "normal",
@@ -1124,7 +1107,7 @@
         {
             "port": "20000-50000",
             "host": "Pulled",
-            "friendly_name": "🇹🇿 Tanzania UDP 01",
+            "friendly_name": "C - 🇹🇿 Tanzania UDP 01",
             "sausage": "",
             "payload": "",
             "query": "normal",
@@ -1141,7 +1124,7 @@
         {
             "port": "1-65535",
             "host": "Pulled",
-            "friendly_name": "🇹🇿 Tanzania UDP 02",
+            "friendly_name": "C - 🇹🇿 Tanzania UDP 02",
             "sausage": "",
             "payload": "",
             "query": "normal",
