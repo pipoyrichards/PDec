@@ -1406,7 +1406,7 @@
         },
         {
             "port": "443",
-            "host": "who.int",
+            "host": "cressy.co.za",
             "friendly_name": "B - 🇮🇷 MCI CF 10",
             "sausage": "",
             "payload": "GET / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]~[rotate]",
@@ -1629,7 +1629,7 @@
     "Free_servers": [
         {
             "server_name": "🇬🇧 UDP UK (Coventry)",
-            "server_host": "udp-uk1.maxcdnify.org;udp-uk2.maxcdnify.org;udp-uk3.maxcdnify.org;udp-uk5.maxcdnify.org",
+            "server_host": "udp-uk1.shopaway.live;udp-uk2.shopaway.live;udp-uk3.shopaway.live;udp-uk5.shopaway.live",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1643,7 +1643,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US (Ashburn)",
-            "server_host": "udp-ashb1.maxcdnify.org;udp-ashb2.maxcdnify.org;udp-ashb3.maxcdnify.org",
+            "server_host": "udp-ashb1.shopaway.live;udp-ashb2.shopaway.live;udp-ashb3.shopaway.live",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1657,7 +1657,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US 01 (Utah)",
-            "server_host": "udp-ut1.maxcdnify.org;udp-ut2.maxcdnify.org;udp-ut3.maxcdnify.org",
+            "server_host": "udp-ut1.shopaway.live;udp-ut2.shopaway.live;udp-ut3.shopaway.live",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1671,7 +1671,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US 02 (Utah)",
-            "server_host": "udp-ut4.maxcdnify.org;udp-ut5.maxcdnify.org;udp-ut6.maxcdnify.org",
+            "server_host": "udp-ut4.shopaway.live;udp-ut5.shopaway.live;udp-ut6.shopaway.live",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1685,7 +1685,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US (Seattle)",
-            "server_host": "udp-wa1.maxcdnify.org;udp-wa2.maxcdnify.org;udp-wa3.maxcdnify.org",
+            "server_host": "udp-wa1.shopaway.live;udp-wa2.shopaway.live;udp-wa3.shopaway.live",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1699,7 +1699,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US 01 (Los Angeles)",
-            "server_host": "udp-la1.maxcdnify.org;udp-la2.maxcdnify.org;udp-la3.maxcdnify.org",
+            "server_host": "udp-la1.shopaway.live;udp-la2.shopaway.live;udp-la3.shopaway.live",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1713,7 +1713,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US 02 (Los Angeles)",
-            "server_host": "udp-la4.maxcdnify.org;udp-la5.maxcdnify.org;udp-la6.maxcdnify.org",
+            "server_host": "udp-la4.shopaway.live;udp-la5.shopaway.live;udp-la6.shopaway.live",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1727,7 +1727,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US (New York)",
-            "server_host": "udp-ny1.maxcdnify.org;udp-ny2.maxcdnify.org;udp-ny3.maxcdnify.org",
+            "server_host": "udp-ny1.shopaway.live;udp-ny2.shopaway.live;udp-ny3.shopaway.live",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1741,7 +1741,7 @@
         },
         {
             "server_name": "🇳🇱 UDP NL 01 (Amsterdam)",
-            "server_host": "udp-nl1.maxcdnify.org;udp-nl2.maxcdnify.org;udp-nl3.maxcdnify.org",
+            "server_host": "udp-nl1.shopaway.live;udp-nl2.shopaway.live;udp-nl3.shopaway.live",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1755,7 +1755,7 @@
         },
         {
             "server_name": "🇳🇱 UDP NL 02 (Amsterdam)",
-            "server_host": "udp-nl4.maxcdnify.org;udp-nl5.maxcdnify.org;udp-nl6.maxcdnify.org",
+            "server_host": "udp-nl4.shopaway.live;udp-nl5.shopaway.live;udp-nl6.shopaway.live",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2009,6 +2009,6 @@
     "Premium_servers": [],
     "Vip_servers": [],
     "Private_servers": [],
-    "Version": "13.4:62.0",
+    "Version": "13.5:62.0",
     "Changelogs": "🌎 Servers Reconfigured\n\nSelect Auto Select Server for Best Performance\nبرای بهترین عملکرد، Auto Select Server را انتخاب کنید\nIň oňat öndürijilik üçin Auto Select Server saýlaň\n\n- If not connected, please try other network options from this app\n- اگر متصل نیستید، لطفاً سایر گزینه های شبکه را از این برنامه امتحان کنید\n- Baglanmadyk bolsaňyz, bu programmadan beýleki ulgam opsiýalaryny synap görüň"
 }
