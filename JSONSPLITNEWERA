@@ -1694,7 +1694,7 @@
     "Free_servers": [
         {
             "server_name": "🇬🇧 UDP UK (Coventry)",
-            "server_host": "udp-uk1.shopaway.live;udp-uk2.shopaway.live;udp-uk3.shopaway.live;udp-uk5.shopaway.live",
+            "server_host": "udp-uk1.shopaway.live;udp-uk2.shopaway.live;udp-uk3.shopaway.live;udp-uk4.shopaway.live;udp-uk5.shopaway.live",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1734,7 +1734,7 @@
             "username": "",
             "password": ""
         },
-        {
+		{
             "server_name": "🇺🇲 UDP US 02 (Utah)",
             "server_host": "udp-ut4.shopaway.live;udp-ut5.shopaway.live;udp-ut6.shopaway.live",
             "server_port": "",
