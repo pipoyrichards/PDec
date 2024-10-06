@@ -2196,7 +2196,7 @@
     "Free_servers": [
         {
             "server_name": "🇬🇧 UDP UK (Coventry)",
-            "server_host": "udp-uk1.shopaway.live;udp-uk2.shopaway.live;udp-uk3.shopaway.live;udp-uk4.shopaway.live;udp-uk5.shopaway.live",
+            "server_host": "uk1.danewax.xyz;uk2.danewax.xyz;uk3.danewax.xyz;uk4.danewax.xyz;uk5.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2210,7 +2210,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US (Ashburn)",
-            "server_host": "udp-ashb1.shopaway.live;udp-ashb2.shopaway.live;udp-ashb3.shopaway.live",
+            "server_host": "ashb1.danewax.xyz;ashb2.danewax.xyz;ashb3.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2224,7 +2224,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US 01 (Utah)",
-            "server_host": "udp-ut1.shopaway.live;udp-ut2.shopaway.live;udp-ut3.shopaway.live",
+            "server_host": "ut1.danewax.xyz;ut2.danewax.xyz;ut3.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2238,7 +2238,7 @@
         },
 		{
             "server_name": "🇺🇲 UDP US 02 (Utah)",
-            "server_host": "udp-ut4.shopaway.live;udp-ut5.shopaway.live;udp-ut6.shopaway.live",
+            "server_host": "ut4.danewax.xyz;ut5.danewax.xyz;ut6.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2252,7 +2252,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US (Seattle)",
-            "server_host": "udp-wa1.shopaway.live;udp-wa2.shopaway.live;udp-wa3.shopaway.live",
+            "server_host": "wa1.danewax.xyz;wa2.danewax.xyz;wa3.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2266,7 +2266,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US 01 (Los Angeles)",
-            "server_host": "udp-la1.shopaway.live;udp-la2.shopaway.live;udp-la3.shopaway.live",
+            "server_host": "la1.danewax.xyz;la2.danewax.xyz;la3.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2280,7 +2280,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US 02 (Los Angeles)",
-            "server_host": "udp-la4.shopaway.live;udp-la5.shopaway.live;udp-la6.shopaway.live",
+            "server_host": "la4.danewax.xyz;la5.danewax.xyz;la6.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2294,7 +2294,7 @@
         },
         {
             "server_name": "🇺🇲 UDP US (New York)",
-            "server_host": "udp-ny1.shopaway.live;udp-ny2.shopaway.live;udp-ny3.shopaway.live",
+            "server_host": "ny1.danewax.xyz;ny2.danewax.xyz;ny3.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2308,7 +2308,7 @@
         },
         {
             "server_name": "🇳🇱 UDP NL 01 (Amsterdam)",
-            "server_host": "udp-nl1.shopaway.live;udp-nl2.shopaway.live;udp-nl3.shopaway.live",
+            "server_host": "nl1.danewax.xyz;nl2.danewax.xyz;nl3.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2322,7 +2322,7 @@
         },
         {
             "server_name": "🇳🇱 UDP NL 02 (Amsterdam)",
-            "server_host": "udp-nl4.shopaway.live;udp-nl5.shopaway.live;udp-nl6.shopaway.live",
+            "server_host": "nl4.danewax.xyz;nl5.danewax.xyz;nl6.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2574,7 +2574,7 @@
         },
         {
             "server_name": "🇬🇧 SlowDns UK (Coventry)",
-            "server_host": "udp-uk1.shopaway.live;udp-uk2.shopaway.live;udp-uk3.shopaway.live;udp-uk4.shopaway.live;udp-uk5.shopaway.live",
+            "server_host": "uk1.danewax.xyz;uk2.danewax.xyz;uk3.danewax.xyz;uk4.danewax.xyz;uk5.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2588,7 +2588,7 @@
         },
         {
             "server_name": "🇺🇲 SlowDns US (Ashburn)",
-            "server_host": "udp-ashb1.shopaway.live;udp-ashb2.shopaway.live;udp-ashb3.shopaway.live",
+            "server_host": "ashb1.danewax.xyz;ashb2.danewax.xyz;ashb3.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2602,7 +2602,7 @@
         },
         {
             "server_name": "🇺🇲 SlowDns US 01 (Utah)",
-            "server_host": "udp-ut1.shopaway.live;udp-ut2.shopaway.live;udp-ut3.shopaway.live",
+            "server_host": "ut1.danewax.xyz;ut2.danewax.xyz;ut3.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2616,7 +2616,7 @@
         },
 		{
             "server_name": "🇺🇲 SlowDns US 02 (Utah)",
-            "server_host": "udp-ut4.shopaway.live;udp-ut5.shopaway.live;udp-ut6.shopaway.live",
+            "server_host": "ut4.danewax.xyz;ut5.danewax.xyz;ut6.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2630,7 +2630,7 @@
         },
         {
             "server_name": "🇺🇲 SlowDns US (Seattle)",
-            "server_host": "udp-wa1.shopaway.live;udp-wa2.shopaway.live;udp-wa3.shopaway.live",
+            "server_host": "wa1.danewax.xyz;wa2.danewax.xyz;wa3.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2644,7 +2644,7 @@
         },
         {
             "server_name": "🇺🇲 SlowDns US 01 (Los Angeles)",
-            "server_host": "udp-la1.shopaway.live;udp-la2.shopaway.live;udp-la3.shopaway.live",
+            "server_host": "la1.danewax.xyz;la2.danewax.xyz;la3.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2658,7 +2658,7 @@
         },
         {
             "server_name": "🇺🇲 SlowDns US 02 (Los Angeles)",
-            "server_host": "udp-la4.shopaway.live;udp-la5.shopaway.live;udp-la6.shopaway.live",
+            "server_host": "la4.danewax.xyz;la5.danewax.xyz;la6.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2672,7 +2672,7 @@
         },
         {
             "server_name": "🇺🇲 SlowDns US (New York)",
-            "server_host": "udp-ny1.shopaway.live;udp-ny2.shopaway.live;udp-ny3.shopaway.live",
+            "server_host": "ny1.danewax.xyz;ny2.danewax.xyz;ny3.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2686,7 +2686,7 @@
         },
         {
             "server_name": "🇳🇱 SlowDns NL 01 (Amsterdam)",
-            "server_host": "udp-nl1.shopaway.live;udp-nl2.shopaway.live;udp-nl3.shopaway.live",
+            "server_host": "nl1.danewax.xyz;nl2.danewax.xyz;nl3.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2700,7 +2700,7 @@
         },
         {
             "server_name": "🇳🇱 SlowDns NL 02 (Amsterdam)",
-            "server_host": "udp-nl4.shopaway.live;udp-nl5.shopaway.live;udp-nl6.shopaway.live",
+            "server_host": "nl4.danewax.xyz;nl5.danewax.xyz;nl6.danewax.xyz",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -2716,6 +2716,6 @@
     "Premium_servers": [],
     "Vip_servers": [],
     "Private_servers": [],
-    "Version": "7.5:62.0",
+    "Version": "7.6:62.0",
     "Changelogs": "🌎 SlowDns Google fixed\n\n- If not connected, please try other network options from this app\n- اگر متصل نیستید، لطفاً سایر گزینه های شبکه را از این برنامه امتحان کنید\n- Baglanmadyk bolsaňyz, bu programmadan beýleki ulgam opsiýalaryny synap görüň"
 }
