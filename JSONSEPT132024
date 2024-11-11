@@ -3,12 +3,12 @@
         {
             "port": "80",
             "host": "[cdnh]",
-            "friendly_name": "A - 🥷 FilterBreak (Autorand 01)",
+            "friendly_name": "A - 🔥 Filter Breaker (Autorand 01)",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
             "category": "ocsws",
-            "message": "AUTO SELECT NETWORK",
+            "message": "(شبکه تصادفی خودکار) اجازه دهید به شما متصل شود",
             "method": "http",
             "sslws": "false",
             "useDnsForward": "true",
@@ -20,12 +20,12 @@
         {
             "port": "80",
             "host": "[sr]",
-            "friendly_name": "A - 🥷 FilterBreak (Autorand 02)",
+            "friendly_name": "A - 🔥 Filter Breaker (Autorand 02)",
             "sausage": "",
             "payload": "GETT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
             "category": "ocsws",
-            "message": "AUTO SELECT NETWORK",
+            "message": "(شبکه تصادفی خودکار) اجازه دهید به شما متصل شود",
             "method": "http",
             "sslws": "false",
             "useDnsForward": "true",
@@ -37,12 +37,12 @@
         {
             "port": "443",
             "host": "[cdnh]",
-            "friendly_name": "A - 🥷 FilterBreak (BSSLAuto 01)",
+            "friendly_name": "A - 🔥 Filter Breaker (BSSLAuto 01)",
             "sausage": "",
             "payload": "GET / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]~[rotate]",
             "query": "normal",
             "category": "ocsws",
-            "message": "AUTO SELECT NETWORK",
+            "message": "(شبکه تصادفی خودکار) اجازه دهید به شما متصل شود",
             "method": "http",
             "sslws": "true",
             "useDnsForward": "true",
@@ -54,12 +54,12 @@
         {
             "port": "443",
             "host": "[sr]",
-            "friendly_name": "A - 🥷 FilterBreak (BSSLAuto 02)",
+            "friendly_name": "A - 🔥 Filter Breaker (BSSLAuto 02)",
             "sausage": "",
             "payload": "GET / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]~[rotate]",
             "query": "normal",
             "category": "ocsws",
-            "message": "AUTO SELECT NETWORK",
+            "message": "(شبکه تصادفی خودکار) اجازه دهید به شما متصل شود",
             "method": "http",
             "sslws": "true",
             "useDnsForward": "true",
@@ -71,7 +71,7 @@
         {
             "port": "80",
             "host": "www.newmetrics.net",
-            "friendly_name": "A - 🥷 FilterBreak CF",
+            "friendly_name": "A - 🔥 Filter Breaker CF",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -86,9 +86,26 @@
             "dothost": ""
         },
         {
+            "port": "80",
+            "host": "origin.api.amxrest.net",
+            "friendly_name": "A - 🔥 Filter Breaker (XRay)",
+            "sausage": "cloudflare.com",
+            "payload": "GET / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "query": "normal",
+            "category": "ocsxray",
+            "message": "",
+            "method": "ssl",
+            "sslws": "false",
+            "useDnsForward": "true",
+            "isHostSni": "false",
+            "isAutoSelect": "true",
+            "isHostResolve": "false",
+            "dothost": ""
+        },
+        {
             "port": "Pulled",
             "host": "Pulled",
-            "friendly_name": "A - 🥷 FilterBreak (Psiphon)",
+            "friendly_name": "A - 🔥 Filter Breaker (Psiphon)",
             "sausage": "",
             "payload": "",
             "query": "normal",
@@ -105,7 +122,7 @@
         {
             "port": "20000-50000",
             "host": "Pulled",
-            "friendly_name": "A - 🥷 FilterBreak (UDP Mode 01)",
+            "friendly_name": "A - 🔥 Filter Breaker (UDP Mode 01)",
             "sausage": "",
             "payload": "",
             "query": "normal",
@@ -122,7 +139,7 @@
         {
             "port": "1-65535",
             "host": "Pulled",
-            "friendly_name": "A - 🥷 FilterBreak (UDP Mode 02)",
+            "friendly_name": "A - 🔥 Filter Breaker (UDP Mode 02)",
             "sausage": "",
             "payload": "",
             "query": "normal",
@@ -139,7 +156,7 @@
         {
             "port": "80",
             "host": "www.speedtest.net;www.pingdom.net;www.testmy.net;www.speed.one;pingdom.net",
-            "friendly_name": "A - 🥷 FilterBreak (OVPN 01)",
+            "friendly_name": "A - 🔥 Filter Breaker (OVPN 01)",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -156,7 +173,7 @@
         {
             "port": "80",
             "host": "www.whatismyipaddress.com;www.whatismyip.com;www.db-ip.com;www.ipchicken.com;www.whatismyip.org",
-            "friendly_name": "A - 🥷 FilterBreak (OVPN 02)",
+            "friendly_name": "A - 🔥 Filter Breaker (OVPN 02)",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -173,7 +190,7 @@
         {
             "port": "80",
             "host": "www.speedtest.net",
-            "friendly_name": "A2 - 🥷 FilterBreak NewGen 01",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 01",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -190,7 +207,7 @@
         {
             "port": "80",
             "host": "www.pingdom.net",
-            "friendly_name": "A2 - 🥷 FilterBreak NewGen 02",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 02",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -207,7 +224,7 @@
         {
             "port": "80",
             "host": "trendyol.com",
-            "friendly_name": "A2 - 🥷 FilterBreak NewGen 03",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 03",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -224,7 +241,7 @@
         {
             "port": "80",
             "host": "www.newmetrics.net",
-            "friendly_name": "A2 - 🥷 FilterBreak NewGen 04",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 04",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -241,7 +258,7 @@
         {
             "port": "80",
             "host": "udemy.com",
-            "friendly_name": "A2 - 🥷 FilterBreak NewGen 05",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 05",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -258,7 +275,7 @@
         {
             "port": "80",
             "host": "customs.gov.mv",
-            "friendly_name": "A2 - 🥷 FilterBreak NewGen 06",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 06",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -275,7 +292,7 @@
         {
             "port": "80",
             "host": "www.testmy.net",
-            "friendly_name": "A2 - 🥷 FilterBreak NewGen 07",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 07",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -292,7 +309,7 @@
         {
             "port": "80",
             "host": "www.whatismyip.com",
-            "friendly_name": "A2 - 🥷 FilterBreak NewGen 08",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 08",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -309,7 +326,7 @@
         {
             "port": "80",
             "host": "www.ipchicken.com",
-            "friendly_name": "A2 - 🥷 FilterBreak NewGen 09",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 09",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -326,7 +343,7 @@
         {
             "port": "80",
             "host": "db-ip.com",
-            "friendly_name": "A2 - 🥷 FilterBreak NewGen 10",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 10",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -411,7 +428,7 @@
         {
             "port": "80",
             "host": "cdnjs.com",
-            "friendly_name": "B - 🌩️ CdnJs FilterBreak 01",
+            "friendly_name": "B - 🌩️ CdnJs Filter Breaker 01",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -428,7 +445,7 @@
         {
             "port": "80",
             "host": "cdnjs-staging.cloudflare.com",
-            "friendly_name": "B - 🌩️ CdnJs FilterBreak 02",
+            "friendly_name": "B - 🌩️ CdnJs Filter Breaker 02",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -445,7 +462,7 @@
         {
             "port": "80",
             "host": "www.whatismyip.org",
-            "friendly_name": "A - 🥷 IP Breaker",
+            "friendly_name": "A - 🔥 IP Breaker",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -1305,7 +1322,7 @@
         },
         {
             "server_name": "🌍 Normal Global",
-            "server_host": "2001:2300@.maxcdnify.org",
+            "server_host": "1:2000@.maxcdnify.org",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "443",
@@ -1317,7 +1334,7 @@
         },
         {
             "server_name": "🌍 XRay Global",
-            "server_host": "2001:2300@.maxcdnify.org",
+            "server_host": "1:2000@.maxcdnify.org",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1328,7 +1345,7 @@
         },
         {
             "server_name": "🌍 WS Global",
-            "server_host": "2001:2300@.bdncdn.xyz;2001:2300@.playzest.xyz;2001:2300@.peacebrought.xyz;2001:2300@.loveley.xyz;2001:2300@.wipebring.xyz;2001:2300@.towelmarket.xyz;2001:2300@.almostafari.com;2001:2300@.dailyparshee.com;2001:2300@.johorul.xyz;2001:2300@.bloghooman.com;2001:2300@.washtreep.info",
+            "server_host": "1:2000@.bdncdn.xyz;1:2000@.playzest.xyz;1:2000@.peacebrought.xyz;1:2000@.loveley.xyz;1:2000@.wipebring.xyz;1:2000@.towelmarket.xyz;1:2000@.almostafari.com;1:2000@.dailyparshee.com;1:2000@.johorul.xyz;1:2000@.bloghooman.com;1:2000@.washtreep.info",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "443",
@@ -1366,7 +1383,7 @@
     "CDNHosts": "1001freefonts.com;10minutemail.com;1news.az;1sale.com;1stwebdesigner.com;1win-kz-casino.kz;23andme.com;2ch-c.net;39sw.com;3bmeteo.com;3commas.io;3dprint.com;411.com;4dsply.com;gootickets.com;5ch.net;800notes.com;888aviator.co.zm;96down.com;aagag.com;abbiele.com;abcnyheter.net.tr;absalifecommunity.absa.co.za;naijaprey.ng;ablefast.com;accounting.sageone.co.za;accounts.ecitizen.go.ke;acquisition.genesis.com;acredit.kz;action.consumerreports.org;mihaaru.com;adafruit.com;adcanvas.com;addmefast.com;adf.ly;adfoc.us;admost.com;ads-id.com;ads.sharechat.com;adventi.st;vaguthu.mv;afloral.com.es;africacheck.org;egov.mv;afterpay.com;agenaman.com;agenjackpot.org;agenterkuat.me;agenterkuat.org;agenterkuatdibumi.com;help.onliner.by;agn.gt;agroklub.com;agugai.kz;ahlibank.om;aintlifegrandcabin.com;adafi.mv;aksam.com.tr;alexaboostup.com;alexagroommydog.co.uk;immigration.gov.mv;allnurses.com;thecable.ng;altel.kz;alternativeto.net;althub.co.za;alura.com.br;eidoloncorp.com;alwatan.om;alweeam.com.sa;amanagen138.com;amazonaws.nom.es;avas.mv;americannews.com;gazette.gov.mv;ancestry.com;anderdaughter.com;androidauthority.com;angani.co;aniagotuje.pl;gs.by;ooredoo.mv;bankofmaldives.com.mv;app.bedbathandbeyond.com;app.ston.fi;arenacasino.hr;argentina.gob.ar;ashleyrnadison.com;asiatrust.ch;assets.amung.us;atheer.om;aukcije.hr;disk.ng;auth-uat-us.surveymonkey.com;authy.com;autoranking.com.br;auvik.com;avenane.com;avval.ir;az24.vn;azafinance.com;azaronline.com;b2n.ir;schools.by;banglanews24.com;bankier.pl;baribar.kz;cosmostv.by;bash.com;batdongsan.com.vn;naviny.by;bazaraki.com;bc.vc;dhiraagu.com.mv;beenverified.com;beinsports.com.tr;bellevuepodiatrist.com;movielink.mv;bestblackhatforum.com;bestofbritishva.com;betano.pt;betfalme.ke;betika.co.zm;betika.com;betpawa.co.ke;betpawa.co.zm;transmaldivian.com;bezaat.com;bgconfidential.ae;bhphotovideo.com;bi.group;biashara.co.ke;billdev.tving.com;birdlife.org;bitdefender.com;bithumb.com;bizimhesap.com;blackdoctor.org;blackhatworld.com;bleepingcomputer.com;bling.com.br;blinklist.com;blog.getpocket.com;blogs.opentext.com;bluewaterchiropractic.com;thenationonlineng.net;boingboing.net;boksbacon.com.au;edition.mv;bongobongo.co.zm;bongobongo.ke;boomtrain.com;bosargo4d.com;dailygalaxy.com;yuvagalam.com;bplay.bet.ar;brainyquote.com;raajje.mv;transport.gov.mv;brightermonday.co.ke;m.bnb.by;spring96.org;kupidivan.by;brookhousedeli.com;btttag.com;bufferapp.com;bunity.enterprises;business2blogger.com;businessforhome.org;businessloanexpress.com;businessmirror.com.ph;businesstech.co.za;c2-sandbox.ajc.com;cafeherpe.com;cafesiciliamalta.com;cajarural.banrural.com.gt;cakeresume.com;movitime.by;elamed.com;capitalfm.co.ke;resheba.pro;carousell.ph;cars.co.za;blogsvila.com;catracalivre.com.br;cda.pl;customs.gov.mv;cdn2.org;cdnjs-staging.cloudflare.com;cdnjs.com;cert.ee;gde.by;jumia.com.dz;cf.ebaumsworld.com;challenge.99math.com;chaussurerunning.com.es;winline.by;dnr.gov.mv;ciceksepeti.com;cimri.com;gdz.by;citycenteronline.bet.ar;online.vfsglobal.dz;classicalacademyofarms.org;cleanfiles.net;clickhole.com;clicks.co.za;cloudflare-sgp-pic.snackvideo.in;clradio154.com;cnbcindonesia.com;codepen.io;codeschool.com;coffeemanga.io;coinpan.com;col3negoriginal.lk;collarts.com.tr;college-pvl.kz;betpawa.ng;mib.com.mv;adhadhu.com;comancheflyer.com;comcastca.mercurynews.com;community.acer.com;community.apartmenttherapy.com;community.f-secure.com;congthuong.vn;conrad.com;hdrezka.by;dzengi.com;contraloria.gob.gt;coolrom.com.au;cooperativa.nom.es;dhen.mv;transinfo.by;counsyl.com;ecolines.by;cpalead.com;horki.info;creativecommons.org;izap24.by;criticalforce.fi;gazetatema.net;crosswalk.com;crunchbase.com;cumhuriyet.com.tr;cunori.edu.gt;cyberchimps.com;cynmar.com;dailymaverick.co.za;jiji.ng;dalmatinskiportal.hr;ras.mv;danisienergycompany.com;danisifuel.com;dashnet.org;davidvella.tech;dca.gob.gt;dclub77.com;delivery.cvs.com;della.kz;dellservervr.dell.com;panorama.com.al;demandforce.com;syri.net;merrjep.al;deseretnews.com;designboom.com;aasandha.mv;thenetnaija.com.ng;designofsites.com;designtaxi.com;desirulez.net;dfp.delta.com;dhakatimes24.com;diariocontraste.com;diariodemorelos.com;dicelacancion.com;diffen.com;diggers.news;digitalasset-delivery1.hilton.com;digitalocean.com;digitaloceanspaces.com;digitalpoint.com;dinnertonight.cookinglight.com;directgloves.carhartt.com;sot.com.al;directprivatelender.com;direktno.hr;dischem.co.za;discordapp.com;discuss.com.hk;disway.id;ditnhau.cc;divakaracademy.com;mtcc.com.mv;merrjep.com;dn.pt;dnevnik.hr;dnevno.hr;docs.adxcorp.kr;docs.dialogi.elisa.fi;docs.fanplayr.com;docs.llama.fi;docs.vcontact1.viettel.vn;dogdrip.net;doisongphapluat.com;doityourself.com;donweb.com;dorzeczy.pl;dostor.org;jobstreet.com.my;downloadatoz.com;miadhu.mv;dpogroup.com;dreamincode.net;drjgagne.net;drmariza.info;droid-life.com;dryicons.com;oneonline.mv;njoftime.al;dummies.com;dziennikzachodni.pl;eatlocalgrown.com;ebanx.com;echodnia.eu;joq-albania.com;meta.mtn.ng;eenet.ee;elbilad.net;einvestidor.estadao.com.br;eksisozluk1923.com;elegantthemes.com;eligmas.co;elitepvpers.com;elkem.com;elkhabar.com;ellitoral.com;elorda-mektep.kz;elwatannews.com;email.pcgamer.com;emailmeform.com;emisoras.com.gt;emisorasunidas.com;emmanuel.uq.edu.au;emojipedia.org;empik.com;endcitizensunited.org;enews.ltdcommodities.com;engocha.com;ent-2014.kz;envato.com;eobuwie.com.pl;epey.com;webnic.cc;escolavirtual.pt;essensworld.kz;myjobmag.com;etoland.co.kr;euwps06-cdn.newsmemory.com;events.kone.com;events.ksl.com;port.mv;evvelcevap.com;goldenchancelotto.com;tourism.gov.mv;expressbydgoski.pl;mira.gov.mv;fa-fa.kz;faithgospelchurch.org;faithit.com;fakenamegenerator.com;yalidine.com;familyhandyman.com;fannovel.com;faq.p-bandai.jp;fazfootball.com;feedbacks.tomshardware.com;feedly.com;feel.com.gt;felgtaws.digifact.com.gt;filecloud.io;findagrave.com;csc.gov.mv;fiverr.com;fixya.com;flightaware.com;fodors.com;fold3.com;fontspace.com;foodbeast.com;hard.al;foottechspa.com;foreca.com;foreca.fi;forms.app;forums.edmunds.com;fourleggedguru.com;friendimobile.com;funatthepark.com;gacorargo4d.com;gadgetgrindcore.com;gamepawa.co.zm;gazetakrakowska.pl;supercellnetwork.com;germaniasport.hr;get2.autodata-group.com;getaply.com;getbootstrap.com;ghosttape.net;gk24.pl;glassdoor.com;efaas.gov.mv;gloria.hr;glory-casino.kz;cna.al;go.coveo.com;go.ctrls.in;go2.vrbo.com;gogoanimes.fi;golfforeste.com;gordonua.com;gorgeecology.org;api.host.al;jobcenter.mv;groupdeals.priceline.com;groups.expedia.com;groups.orbitz.com;groups.travelocity.com;groww.in;gsb.co.zm;gsmhosting.com;gsmspain.com;guatecompras.gt;guide-alimentaire.canada.ca;asiemodel.net;hahucloud.com;halktv.com.tr;hamariweb.com;wbhrb.in;univ-eloued.dz;elkhadra.com;liberte-algerie.com;jumia.dz;lesoirdalgerie.com;hawkhost.com;drjobpro.com;haydigiy.com;hdfcbank.com;hditenn.com;helloelly.com;hellosehat.com;heritage.org;coches.esky.es;hipo.kz;hitechtra.com.tr;hns.family;homeadvisor.com;homedevelopmenttn.com;homedevtn.com;hommbitkisel.com.tr;horoscope.com;hostgator.com.br;hostilimitado.com;hostjio.com;hotelfinancing.com;howtoforge.com;hs-sites.com;baros.com;humblebundle.com;hygall.com;finance.gov.mv;idfs6.com;ifconfig.co;igame.ir;igm.gob.gt;iheartdogs.com;iihf.com;ilivefor.org;ilmateenistus.ee;imagecurl.org;nairametrics.com;onlinekhabar.com;indexww.com;inet.vn;e-wdesign.eu;infolinks.com;inform.kz;infowars.com;ink361.com;insertlive.com;instacart.samsclub.com;intellectdialog.com;investor.cars.com;investor.choicehotels.com;investorrelations.discover.com;investors.atlassian.com;investors.progressive.com;ipcc.ch;iprofesional.com;iproperty.com.my;ir.kroger.com;iranhost.com;irccloud.com;iro.ke;jabuka.tv;jackpot.kwikbet.co.ke;japanesephysicians.com;japantimes.co.jp;ekantipur.com;jeftinije.hr;jiji.co.ke;jmariestidham.com;jn.pt;jobs.officedepot.com;joeforamerica.com;euronews.al;join.caringbridge.org;jooble.org;jquery.com;jquery.org;jualmeja.com;jumblejoy.com;jobberman.com;jumia.co.ke;jumia.com.et;jumpforwardmedia.io;jumpstartcom.co.za;hotspot.abissnet.al;themebeez.com;jut.su;k-rauta.ee;kairaweb.com;kaligo.finnair.com;kamusonhaber.com.tr;karar.com;katalozi.net;merojob.com;kaup24.ee;kawalingpinoy.com;kbaglobal.com.es;kcbgroup.com;kenic.or.ke;drjobs.ae;bizmandu.com;kifpool.me;kiryuu.id;klikpendidikan.id;kms.arms.ricoh.co.jp;kodrisafrica.com;kolkataff.in;kraken.com;kumparan.com;nepalitimes.com;kurir.net.tr;kv.ee;edusanjal.com;la-razon.com;lahora.gt;lalibet.et;landliberty.ch;laracasts.com;laravel.com;lasmargaritasmidtown.com;lcbcbend.com;gazeta-shqip.com;lemonade.nab.com.au;leroymerlin.com.br;lesaiglestr.ch;letniegranie.com.es;levine.co.ke;lexingtonbettysmokehouse.com;lgcdn.homerunmonkey.com;lido.fi;lifebuzz.com;liftable.com;like3cardtest.vakifbank.com.tr;limoo.host;sfnemploi.com;landing.decta.com;livescore.co.kr;nepalpress.com;inter-lignes.com;local.safeway.com;nepalkhabar.com;longislandexterminatingco.com;losangelesfreepress.com;lotterysambadresult.in;marriedwiki.com;lowermybills.com;lp.tuasaude.com;m.hak.hr;macrumors.com;macuniversity.com.es;articlebio.com;albeu.com;manhwaindo.id;emploipartner.com;alinablog.al;marketplace.telstra.com;playerswiki.com;ams.al;mashable.com;mayaconic.org;domaininnepal.com;mcdonalds.com.gt;mcss.mcgill.ca;pu.edu.np;media.otodom.pl;mediaexpert.pl;mediaite.com;medicinenet.com;medium.com;medscape.com;mehrhost.com;mercatowc.com;metruyenhot.vn;mezzaninefinance.com;mezzaninefinancing.com;mg.co.za;mgkomik.id;mediadesk.al;jblist.al;betway.com.ng;minex.gob.gt;minfin.gob.gt;mizbanfa.net;mncjobsgulf.ch;moack.co.kr;vizionplus.tv;pages.khalti.com;jobs.bg;moneyweb.co.za;montascale.tkelevator.com;montrealfamilies.nom.es;mortgagebrokersdirectory.com;mortgagelenderdirectory.com;mortgagelendersdirectory.com;mostbetkazahstan.kz;mountainhardwear.com;mpasa.org.za;muscatdaily.com;muzzona.kz;ashesh.com.np;myfitnesspal.com;myjobmag.co.ke;nabava.net;naranjax.com;natread.com;madina.dz;nimbuzz.com;nba.onesports.ph;nefisyemektarifleri.com;netsegura.meo.pt;nettruyenco.vn;news-medical.net;news.aa.com;newsroom.trendmicro.com;nexload.ir;nextavenue.org;nhathuoclongchau.com.vn;nhtreatment.org;niagaracollege.nom.es;nitaustralia.ru;nliven.cirquedusoleil.com;nodejs.org;a2news.com;hamrocsit.com;nos.pt;notino.hr;nepremicnine.net;notube.fi;novex.com.gt;novilist.hr;nowiny24.pl;nowosci.com.pl;nto.pl;ntruyen.vn;picks.pulse.ng;bombuj.si;observador.pt;meet.jit.si;offidocs.com;ogame.kz;oglasnik.hr;ojogo.pt;okidoki.ee;ol.om;ole.com.ar;olm.vn;omegatheme.com;omegle.com;onecredit.kz;onegoodthingbyjillee.com;oneindia.com;online.uj.ac.za;opencart.com;timesofnepal.com.np;opinionlab.com;opportunitiesforyoungkenyans.co.ke;optimalnorge.com.es;optimizepress.com;oqic.com;orangecountydivorcelawyerblog.com;oricon.co.jp;malaysiaairlines.com;over.net;paises.paquetesmiclaro.com;parfois.com;parstoday.ir;partner.zoom.us;ucilnice.arnes.si;patient.co.uk;patreon.com;pay.usbank.com;paymentservices.payfort.com;pbreview.ch;pccomponentes.com;leadership.ng;pea.msnbc.com;pedidosya.com.ar;pensebete.org;peoplefinders.com;betano.ng;personalassetloans.com;klmanga.si;peso138juara.com;news.amis.net;pimeyes.com;pingdom.net;bunkr.si;newsofnepal.com;pnc.edu.gt;merohosting.com;poder360.com.br;points-storefront.qa.southwest.com;poloniex.com;pomorska.pl;poranny.pl;posao.hr;powerinbox.com;powerplantmap.com;ppdbpalembang.com;movies4u.si;setoparty.com;press.autotrader.com;nepalviews.com;privacy.com.br;producthunt.com;kwik.si;promociones.mercadopago.com.ar;prosper.com;prozis.com;blog.mediately.co;psk.hr;pubexchange.com;puckermob.com;pushq.ir;ujyaaloonline.com;pwebtr.mizuhobank.co.jp;qalan.kz;qanoon.om;nayapatrikadaily.com;radianonline.co.zm;radio.or.ke;radiosarajevo.ba;rantsports.com;ratemyprofessors.ch;ratkojat.fi;online.rcsi.com;notube.si;redorbit.com;redvelvet.co.za;nova24tv.si;dstv.com;iraqinews.com;restolabraise.net;rgae.gob.gt;rightwingnews.com;rik.ee;ristrettocoffeelounge.com;rizk.hr;ceneje.si;rojadirectaenvivo.pl;maribor24.si;bigbang.si;rp.pl;ruta1000.com.ar;sacm.co.za;sammystasteofchicago.com;samsoptical.com;sanparks.org;sapporoshakopeemn.com;sars.gov.za;sat.gob.gt;rhinotenders.com;sattasport.in;anti-ddosportal.stc.bh;floward.com;schoolhack.kz;1001ideja.si;sciencealert.com;script.crazyegg.com;namjestaj.hr;sdakoulut.inschool.fi;securedapi.confirmtkt.com;seevid.ir;seg.ad.gt;sei-info.udemy.com;cazasouq.com;serverpars.com;decathlon.rs;evisa.gov.bh;albiladpress.com;nbbonline.com;shaalaa.com;shabiki.com;shareably.net;shebudgets.com;sherwinca.com;shownews.pl;tijaanclinics.com;sikayetvar.com;simplify.hr;simplyhired.com;simpmcghees.com;sinembargo.mx;site-pin-up.kz;sterling.ng;blitz.bg;slashed.cloud;slobodnadalmacija.hr;smakosze.pl;smn.gob.ar;solidtrustpay.com;solutions.travelzoo.com;someecards.com;bubadu.com;sooperarticles.com;sooq-cars.com;soov.ee;sos.wa.gov;sozcu.com.tr;sport.ro;spring.io;srednja.hr;phonearena.com;stan.kz;stanbicbank.co.zm;standardbank.co.za;standardmedia.co.ke;startups.usetiful.com;stheadline.info;stpatsftl.com;dramacool.bg;suara.com;sun-gazing.com;superbalist.com;superbonusmdm.com;superuser.com;zamunda.net;takealot.com;taku.hsl.fi;talbots.com;talkingpointsmemo.com;tallinn.ee;careers.emag.bg;tcafe2a.com;tdgall.com;technicpack.net;technopat.net;emovies.si;blog.smartico.ai;teleflora.com;telemagazyn.pl;telepase.com.ar;teppah.com;jav.si;tfl.gov.uk;bg-mamma.com;tgju.org;the-star.co.ke;theamericandefenseacademy.com;dir.bg;theeastafrican.co.ke;theglobeandmail.nom.es;thegrio.com;thehindu.com;thehollywoodgossip.com;theiconic.com.au;mangaraw-jp.si;theme-fusion.com;thenews.com.pk;thepennyhoarder.com;theqoo.net;theridgeva.com;telemach.si;timesofoman.com;todoticket.com;tokkobroker.com;myschool.ng;townhall.com;spar.si;transferwise.com;treasurevalleycoffee.net;visitljubljana.com;trendyol.com;bazar.bg;sportsonline.si;truyenchu.vn;truyenfull.vn;pensoft.net;shkolo.bg;turfpremium.com.ar;twentytwowords.com;typingtest.com;udemy.com;kl-manga.si;ulicnistil.com;uonetplus.vulcan.net.pl;upbit.com;upcloud.com;sos112.si;uptoplay.net;upwork.com;usercentrics.com;capi.mass.si;utahdobes.org;value-domain.com;vannfamilydental.com;varainhoito.op.fi;vatanbilgisayar.com;vavadakzcasino.kz;wowne.ws;verticalresponse.com;flixtor.si;demokracija.si;newscenter.a1.bg;videocardz.com;vinmec.com;dnevnik.bg;viralands.com;virtualcommtraining.verizon.com;visa.com.ar;vitals.com;resumebuild.com;vtcnews.vn;kuttymovies.com.ng;wa-health.kaiserpermanente.org;okay.ng;waseet.ch;washingtonexaminer.com;webhostkenya.co.ke;mt-link.mesrs.dz;wellnessjunky.com;affiliatly.com;whitehouseeastereggroll.com;whiterabbitpress.com;wingame.co.zm;winline.kz;winner.et;winpesa.ke;wnd.com;woodfordschools.org;wpolityce.pl;wsoargo4d.com;www.db-ip.com;www.earthlink.net;www.ipchicken.com;www.newmetrics.net;www.northlink.co.za;www.onesports.ph;www.pingdom.net;www.speed.one;www.speedtest.net;www.testmy.net;www.w3.org;www.whatismyip.com;www.whatismyip.org;www.whatismyipaddress.com;xenophongi.org;xoso.com.vn;xosodaiphat.com;xpchain.io;jumia.com.ng;pioneer-car.eu;yemeksepeti.com;yeniakit.com.tr;btv.bg;yk.kz;yogaenkanker.at;youseijo.mhlw.go.jp;btvnovinite.bg;zagreb.info;zeotap.com;zerkalo.macdent.kz;ziprecruiter.com;zonaprop.com.ar;zopim.com;zula.ir",
     "FrontHosts": "acrites-ui-iframe.experience-stage.adobe.net;qlinkwireless.com;apac-eticket.trendmicro.com;apac.kss.kaspersky-labs.com;apistg.imf.org;app-thdpoc.central.arubanetworks.com;appcenter.ms;apps.greenhouse.f5.com;archive.nationalgeographic.com;autodiscover.contractor.ea.com;autodiscover.foxnews.com;autodiscover.itec.suny.edu;autodiscover.roku.com;autodiscover.salliemae.com;autodiscover.undertone.com;bbmaps.itu.int;bcmltoqa2.glpals.com;bhwtesting.t-mobile.com;boss.dell.com;careers.pubmatic.com;citrix.kroger.com;cjaas.cisco.com;clarity.ms;cloud.microsoft;cms.eset.com;content.bettycrocker.com;cricketapitest.sportradar.com;culturalatlas.sbs.com.au;customeridtest.sprouts.com;d3.accuweather.com;dev.eipp.cdc.gov;dev01-apiapp-prc.progressive.com;docs.nginx.com;elevate.serverdata.net;enterpriseregistration.bodybuilding.com;envoy.east-us.cumulus.bloomberg.com;findapartner.hpe.com;fujitsu.uk.entrust.net;fulcrum.partners.nvidia.com;gamepass.com;gcoid-tfs.toyota.com;h-api-us-test.online-metrix.net;info.uber.com;inmobi.com;msoid.toysrus.com;jamanetwork.com;jobs.amd.com;local.seattlepi.com;traegergrills.com;md.one.un.org;media2.townhall.com;messages.rubiconproject.com;microsoft.com;mmlfaq.ncaa.com;mycardbenefitsap.visa.com;mycostcoaccount.costco.com;mykor.microsoftpersonalcontent.com;coldwellbanker.com;notice.samsungcloudsolution.com;octestvideoconference.elisa.fi;office.com;office365.com;p.sfx.ms;pages.am.kohls.com;partners.ninjaone.com;pimstage.olivegarden.com;pm-read.carmax.com;portal.mcafee.com;press.na.square-enix.com;proxy.markets.businessinsider.com;qaaliveapp.adidas.com;relay-eu.xcal.tv;royalstore.king.com;rs-stripe.interestingengineering.com;rs-stripe.npr.org;rs-stripe.wsj.com;safety.cbssports.com;scim.nesn.com;secure.newscientist.com;securedownloads.lww.com;sitemaps.org;smokiespermits.nps.gov;social.spectrumreach.com;spacex.com;go.chownow.com;stage-mg2access.journal-news.com;status.sophos.com;subscriptions.nature.com;sunglasshut.com;tasteofhome.com;temu.com;thecommunicationzone.booking.com;theloft.tractorsupply.com;tlsstg.samsungqbe.com;travelexpensecusadv.cusa.canon.com;university.smartadserver.com;vabbrr.ubisoft.com;volvocars.com;vsapps.asp.att.net;xboxlive.com",
     "BackHosts": "123stores.com;act.alz.org;affiliate-cn.junglescout.com;search.creativecommons.org;apalon.com;api.avclabs.com;apoioescolar.magazineluiza.com.br;app.nhra.com;ascentstudentloans.com;blog.fosshub.com;vcommission.com;brand.rescue.org;brb.aritzia.com;brochure.harley-davidson.com;bsxplayerv2.bluestacks.com;bustle.com;calendar.yeti.com;careers.vivino.com;chaseoffers.chase.com;chronicle.com;civilwaracademy.com;claxy.com;cloud.oppo.com;coban.pixiv.net;compare.wanderu.com;comprouvoltou.carrefoursolucoes.com.br;comps.trustedreviews.com;corp.priceline.com;council.nyc.gov;dat.com;dc.jdpower.com;delivery.imovelweb.com.br;dev.botmaker.goo.ne.jp;drop.wingstop.com;easyautodiagnostics.com;echogear.com;email.email-vero.beenverified.com;ext-data.rocketreach.co;fictfact.com;gcp.nel.cloudflare.com;help.bethesda.net;help.brother-usa.com;holiday-retirement.familysurvey.sgizmo.com;insights.capterra.com;keen.cheatsheet.com;learn.corel.com;learningcorner.epaper.thehindu.com;link.amazonflex.greendot.com;m.thescore.com;mamastar.jp;maps.metmuseum.org;marca.com;marcus.com;mckesson.com;media.everlane.com;meilisearch-poc.tasteofhome.com;metrics.newegg.com;mo.camscanner.com;movistar.com.mx;mp4ba.com;singapore.katespade.com;neurotrack.estrategiaconcursos.com.br;op.gg;order-cdn.stg.tabelog.com;packages.workingadvantage.com;partner.canva.com;payments.avianca.com;permutive.businessinsider.com;promo.diamond.jp;puma.com;purina.com;queropassagem.com.br;resources.edb.gov.hk;ind-mis-carl.shalltry.com;saksfifthavenue.com;samaritanspurse.org;sbc.digitalocean.com;sharetv.com;shop.interestingengineering.com;sli.artofmanliness.com;sli.newegg.com;status.buyerlink.com;stg.icontact.com;stores.saksoff5th.com;storybook.hotjar.com;tenaciousd.com;tigo.com.co;tphgtm.thepennyhoarder.com;trafficguard.ai;tubapeter.com;under30experiences.com;updates.arlo.com;upgradedpoints.com;vote.ada.org;wayfair.com;wayport.net;time.sonos.com;webike.net;westlakefinancial.com;winndixie.com",
-    "Version": "2.2",
-    "Changelogs": "🌎 Servers & Tweaks Reconfigured",
+    "Version": "2.1",
+    "Changelogs": "🌎 Tweaks Reconfigured",
     "ShowNotice": "true"
 }
