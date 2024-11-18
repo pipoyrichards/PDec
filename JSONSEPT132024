@@ -3,12 +3,12 @@
         {
             "port": "80",
             "host": "[cdnh]",
-            "friendly_name": "A - 🥷 FilterFreedom (Autorand 01)",
+            "friendly_name": "A - 🔥 Filter Breaker (Autorand 01)",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
             "category": "ocsws",
-            "message": "AUTO FIND",
+            "message": "(شبکه تصادفی خودکار) اجازه دهید به شما متصل شود",
             "method": "http",
             "sslws": "false",
             "useDnsForward": "true",
@@ -20,12 +20,12 @@
         {
             "port": "80",
             "host": "[sr]",
-            "friendly_name": "A - 🥷 FilterFreedom (Autorand 02)",
+            "friendly_name": "A - 🔥 Filter Breaker (Autorand 02)",
             "sausage": "",
             "payload": "GETT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
             "category": "ocsws",
-            "message": "AUTO FIND",
+            "message": "(شبکه تصادفی خودکار) اجازه دهید به شما متصل شود",
             "method": "http",
             "sslws": "false",
             "useDnsForward": "true",
@@ -37,12 +37,12 @@
         {
             "port": "443",
             "host": "[cdnh]",
-            "friendly_name": "A - 🥷 FilterFreedom (BSSLAuto 01)",
+            "friendly_name": "A - 🔥 Filter Breaker (BSSLAuto 01)",
             "sausage": "",
             "payload": "GET / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]~[rotate]",
             "query": "normal",
             "category": "ocsws",
-            "message": "AUTO FIND",
+            "message": "(شبکه تصادفی خودکار) اجازه دهید به شما متصل شود",
             "method": "http",
             "sslws": "true",
             "useDnsForward": "true",
@@ -54,12 +54,12 @@
         {
             "port": "443",
             "host": "[sr]",
-            "friendly_name": "A - 🥷 FilterFreedom (BSSLAuto 02)",
+            "friendly_name": "A - 🔥 Filter Breaker (BSSLAuto 02)",
             "sausage": "",
             "payload": "GET / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]~[rotate]",
             "query": "normal",
             "category": "ocsws",
-            "message": "AUTO FIND",
+            "message": "(شبکه تصادفی خودکار) اجازه دهید به شما متصل شود",
             "method": "http",
             "sslws": "true",
             "useDnsForward": "true",
@@ -71,7 +71,7 @@
         {
             "port": "80",
             "host": "www.newmetrics.net",
-            "friendly_name": "A - 🥷 FilterFreedom CF",
+            "friendly_name": "A - 🔥 Filter Breaker CF",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -86,9 +86,26 @@
             "dothost": ""
         },
         {
+            "port": "80",
+            "host": "origin.api.amxrest.net",
+            "friendly_name": "A - 🔥 Filter Breaker (BXRay)",
+            "sausage": "google.com",
+            "payload": "GET / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+            "query": "normal",
+            "category": "ocsxray",
+            "message": "Türkmenistan ulgamlarynda synap görüň",
+            "method": "ssl",
+            "sslws": "false",
+            "useDnsForward": "true",
+            "isHostSni": "false",
+            "isAutoSelect": "true",
+            "isHostResolve": "false",
+            "dothost": ""
+        },
+        {
             "port": "Pulled",
             "host": "Pulled",
-            "friendly_name": "A - 🥷 FilterFreedom (Psiphon)",
+            "friendly_name": "A - 🔥 Filter Breaker (Psiphon)",
             "sausage": "",
             "payload": "",
             "query": "normal",
@@ -105,7 +122,7 @@
         {
             "port": "20000-50000",
             "host": "Pulled",
-            "friendly_name": "A - 🥷 FilterFreedom (UDP Mode 01)",
+            "friendly_name": "A - 🔥 Filter Breaker (UDP Mode 01)",
             "sausage": "",
             "payload": "",
             "query": "normal",
@@ -122,7 +139,7 @@
         {
             "port": "1-65535",
             "host": "Pulled",
-            "friendly_name": "A - 🥷 FilterFreedom (UDP Mode 02)",
+            "friendly_name": "A - 🔥 Filter Breaker (UDP Mode 02)",
             "sausage": "",
             "payload": "",
             "query": "normal",
@@ -139,7 +156,7 @@
         {
             "port": "80",
             "host": "www.speedtest.net;www.pingdom.net;www.testmy.net;www.speed.one;pingdom.net",
-            "friendly_name": "A - 🥷 FilterFreedom (OVPN 01)",
+            "friendly_name": "A - 🔥 Filter Breaker (OVPN 01)",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -156,7 +173,7 @@
         {
             "port": "80",
             "host": "www.whatismyipaddress.com;www.whatismyip.com;www.db-ip.com;www.ipchicken.com;www.whatismyip.org",
-            "friendly_name": "A - 🥷 FilterFreedom (OVPN 02)",
+            "friendly_name": "A - 🔥 Filter Breaker (OVPN 02)",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -173,7 +190,7 @@
         {
             "port": "80",
             "host": "www.speedtest.net",
-            "friendly_name": "A2 - 🥷 FilterFreedom NewGen 01",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 01",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -190,7 +207,7 @@
         {
             "port": "80",
             "host": "www.pingdom.net",
-            "friendly_name": "A2 - 🥷 FilterFreedom NewGen 02",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 02",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -207,7 +224,7 @@
         {
             "port": "80",
             "host": "trendyol.com",
-            "friendly_name": "A2 - 🥷 FilterFreedom NewGen 03",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 03",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -224,7 +241,7 @@
         {
             "port": "80",
             "host": "www.newmetrics.net",
-            "friendly_name": "A2 - 🥷 FilterFreedom NewGen 04",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 04",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -241,7 +258,7 @@
         {
             "port": "80",
             "host": "udemy.com",
-            "friendly_name": "A2 - 🥷 FilterFreedom NewGen 05",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 05",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -258,7 +275,7 @@
         {
             "port": "80",
             "host": "customs.gov.mv",
-            "friendly_name": "A2 - 🥷 FilterFreedom NewGen 06",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 06",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -275,7 +292,7 @@
         {
             "port": "80",
             "host": "www.testmy.net",
-            "friendly_name": "A2 - 🥷 FilterFreedom NewGen 07",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 07",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -292,7 +309,7 @@
         {
             "port": "80",
             "host": "www.whatismyip.com",
-            "friendly_name": "A2 - 🥷 FilterFreedom NewGen 08",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 08",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -309,7 +326,7 @@
         {
             "port": "80",
             "host": "www.ipchicken.com",
-            "friendly_name": "A2 - 🥷 FilterFreedom NewGen 09",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 09",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -326,7 +343,7 @@
         {
             "port": "80",
             "host": "db-ip.com",
-            "friendly_name": "A2 - 🥷 FilterFreedom NewGen 10",
+            "friendly_name": "A2 - 🔥 FilterBreak NewGen 10",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -411,7 +428,7 @@
         {
             "port": "80",
             "host": "cdnjs.com",
-            "friendly_name": "B - 🌩️ CdnJs FilterFreedom 01",
+            "friendly_name": "B - 🌩️ CdnJs Filter Breaker 01",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -428,7 +445,7 @@
         {
             "port": "80",
             "host": "cdnjs-staging.cloudflare.com",
-            "friendly_name": "B - 🌩️ CdnJs FilterFreedom 02",
+            "friendly_name": "B - 🌩️ CdnJs Filter Breaker 02",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -445,7 +462,7 @@
         {
             "port": "80",
             "host": "www.whatismyip.org",
-            "friendly_name": "A - 🥷 IP Breaker",
+            "friendly_name": "A - 🔥 IP Breaker",
             "sausage": "",
             "payload": "POSTT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][crlf][crlf][split][cr]PROPATCH / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
             "query": "normal",
@@ -1305,7 +1322,7 @@
         },
         {
             "server_name": "🌍 Normal Global",
-            "server_host": "3001:3070@.maxcdnify.org",
+            "server_host": "1:2000@.maxcdnify.org",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "443",
@@ -1317,7 +1334,7 @@
         },
         {
             "server_name": "🌍 XRay Global",
-            "server_host": "3001:3070@.maxcdnify.org",
+            "server_host": "1:2000@.maxcdnify.org",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1328,7 +1345,7 @@
         },
         {
             "server_name": "🌍 WS Global",
-            "server_host": "3001:3070@.bdncdn.xyz;3001:3070@.playzest.xyz;3001:3070@.peacebrought.xyz;3001:3070@.loveley.xyz;3001:3070@.wipebring.xyz;3001:3070@.towelmarket.xyz;3001:3070@.almostafari.com;3001:3070@.dailyparshee.com;3001:3070@.johorul.xyz;3001:3070@.bloghooman.com;3001:3070@.washtreep.info",
+            "server_host": "1:2000@.bdncdn.xyz;1:2000@.playzest.xyz;1:2000@.peacebrought.xyz;1:2000@.loveley.xyz;1:2000@.wipebring.xyz;1:2000@.towelmarket.xyz;1:2000@.almostafari.com;1:2000@.dailyparshee.com;1:2000@.johorul.xyz;1:2000@.bloghooman.com;1:2000@.washtreep.info",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "443",
@@ -1367,6 +1384,6 @@
     "FrontHosts": "acrites-ui-iframe.experience-stage.adobe.net;qlinkwireless.com;apac-eticket.trendmicro.com;apac.kss.kaspersky-labs.com;apistg.imf.org;app-thdpoc.central.arubanetworks.com;appcenter.ms;apps.greenhouse.f5.com;archive.nationalgeographic.com;autodiscover.contractor.ea.com;autodiscover.foxnews.com;autodiscover.itec.suny.edu;autodiscover.roku.com;autodiscover.salliemae.com;autodiscover.undertone.com;bbmaps.itu.int;bcmltoqa2.glpals.com;bhwtesting.t-mobile.com;boss.dell.com;careers.pubmatic.com;citrix.kroger.com;cjaas.cisco.com;clarity.ms;cloud.microsoft;cms.eset.com;content.bettycrocker.com;cricketapitest.sportradar.com;culturalatlas.sbs.com.au;customeridtest.sprouts.com;d3.accuweather.com;dev.eipp.cdc.gov;dev01-apiapp-prc.progressive.com;docs.nginx.com;elevate.serverdata.net;enterpriseregistration.bodybuilding.com;envoy.east-us.cumulus.bloomberg.com;findapartner.hpe.com;fujitsu.uk.entrust.net;fulcrum.partners.nvidia.com;gamepass.com;gcoid-tfs.toyota.com;h-api-us-test.online-metrix.net;info.uber.com;inmobi.com;msoid.toysrus.com;jamanetwork.com;jobs.amd.com;local.seattlepi.com;traegergrills.com;md.one.un.org;media2.townhall.com;messages.rubiconproject.com;microsoft.com;mmlfaq.ncaa.com;mycardbenefitsap.visa.com;mycostcoaccount.costco.com;mykor.microsoftpersonalcontent.com;coldwellbanker.com;notice.samsungcloudsolution.com;octestvideoconference.elisa.fi;office.com;office365.com;p.sfx.ms;pages.am.kohls.com;partners.ninjaone.com;pimstage.olivegarden.com;pm-read.carmax.com;portal.mcafee.com;press.na.square-enix.com;proxy.markets.businessinsider.com;qaaliveapp.adidas.com;relay-eu.xcal.tv;royalstore.king.com;rs-stripe.interestingengineering.com;rs-stripe.npr.org;rs-stripe.wsj.com;safety.cbssports.com;scim.nesn.com;secure.newscientist.com;securedownloads.lww.com;sitemaps.org;smokiespermits.nps.gov;social.spectrumreach.com;spacex.com;go.chownow.com;stage-mg2access.journal-news.com;status.sophos.com;subscriptions.nature.com;sunglasshut.com;tasteofhome.com;temu.com;thecommunicationzone.booking.com;theloft.tractorsupply.com;tlsstg.samsungqbe.com;travelexpensecusadv.cusa.canon.com;university.smartadserver.com;vabbrr.ubisoft.com;volvocars.com;vsapps.asp.att.net;xboxlive.com",
     "BackHosts": "123stores.com;act.alz.org;affiliate-cn.junglescout.com;search.creativecommons.org;apalon.com;api.avclabs.com;apoioescolar.magazineluiza.com.br;app.nhra.com;ascentstudentloans.com;blog.fosshub.com;vcommission.com;brand.rescue.org;brb.aritzia.com;brochure.harley-davidson.com;bsxplayerv2.bluestacks.com;bustle.com;calendar.yeti.com;careers.vivino.com;chaseoffers.chase.com;chronicle.com;civilwaracademy.com;claxy.com;cloud.oppo.com;coban.pixiv.net;compare.wanderu.com;comprouvoltou.carrefoursolucoes.com.br;comps.trustedreviews.com;corp.priceline.com;council.nyc.gov;dat.com;dc.jdpower.com;delivery.imovelweb.com.br;dev.botmaker.goo.ne.jp;drop.wingstop.com;easyautodiagnostics.com;echogear.com;email.email-vero.beenverified.com;ext-data.rocketreach.co;fictfact.com;gcp.nel.cloudflare.com;help.bethesda.net;help.brother-usa.com;holiday-retirement.familysurvey.sgizmo.com;insights.capterra.com;keen.cheatsheet.com;learn.corel.com;learningcorner.epaper.thehindu.com;link.amazonflex.greendot.com;m.thescore.com;mamastar.jp;maps.metmuseum.org;marca.com;marcus.com;mckesson.com;media.everlane.com;meilisearch-poc.tasteofhome.com;metrics.newegg.com;mo.camscanner.com;movistar.com.mx;mp4ba.com;singapore.katespade.com;neurotrack.estrategiaconcursos.com.br;op.gg;order-cdn.stg.tabelog.com;packages.workingadvantage.com;partner.canva.com;payments.avianca.com;permutive.businessinsider.com;promo.diamond.jp;puma.com;purina.com;queropassagem.com.br;resources.edb.gov.hk;ind-mis-carl.shalltry.com;saksfifthavenue.com;samaritanspurse.org;sbc.digitalocean.com;sharetv.com;shop.interestingengineering.com;sli.artofmanliness.com;sli.newegg.com;status.buyerlink.com;stg.icontact.com;stores.saksoff5th.com;storybook.hotjar.com;tenaciousd.com;tigo.com.co;tphgtm.thepennyhoarder.com;trafficguard.ai;tubapeter.com;under30experiences.com;updates.arlo.com;upgradedpoints.com;vote.ada.org;wayfair.com;wayport.net;time.sonos.com;webike.net;westlakefinancial.com;winndixie.com",
     "Version": "2.2",
-    "Changelogs": "🌎 Servers & Tweaks Reconfigured",
+    "Changelogs": "🌎 Tweaks Update",
     "ShowNotice": "true"
 }
