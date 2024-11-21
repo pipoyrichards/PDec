@@ -34,12 +34,12 @@
             "isHostResolve": "false",
             "dothost": ""
         },
-        {
+		{
             "port": "80",
             "host": "[sr]",
             "friendly_name": "A - 🔥 Filter Breaker (Autorand 03)",
             "sausage": "",
-            "payload": "CONNECT http://[cdnh] HTTP/1.1[crlf]Host: [fh][cr][rand] HTTP/1.1[cr]Host: [bh][crlf][crlf]AN / HTTP/1.1[cr]Host: [cf][cr]Connection: Upgrade[cr]Upgrade: websocket[cr]User-Agent: [ua][crlf]Cache-Control: 604800[crlf][crlf]",
+            "payload": "CONNECT http://[rotate=[cdnh]] HTTP/1.1[crlf]Host: [rotate=[fh]][cr][rand] HTTP/1.1[cr]Host: [rotate=[bh]][crlf][crlf]AN / HTTP/1.1[cr]Host: [cf][cr]Connection: Upgrade[cr]Upgrade: websocket[cr]User-Agent: [ua][crlf]Cache-Control: 604800[crlf][crlf]",
             "query": "normal",
             "category": "ocskp",
             "message": "NEW METHOD",
@@ -1372,7 +1372,7 @@
             "username": "",
             "password": ""
         },
-        {
+		{
             "server_name": "🌍 KP Global",
             "server_host": "1:2000@.bdncdn.xyz;1:2000@.playzest.xyz;1:2000@.peacebrought.xyz;1:2000@.loveley.xyz;1:2000@.wipebring.xyz;1:2000@.towelmarket.xyz;1:2000@.almostafari.com;1:2000@.dailyparshee.com;1:2000@.johorul.xyz;1:2000@.bloghooman.com;1:2000@.washtreep.info",
             "server_port": "1194",
@@ -1415,5 +1415,5 @@
     "Version": "1.0",
     "Changelogs": "🌎 New Method",
     "ShowNotice": "true",
-    "ShowNews": "true"
+	"ShowNews": "true"
 }
