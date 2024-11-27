@@ -224,7 +224,7 @@
         {
             "port": "80",
             "host": "www.speedtest.net",
-            "friendly_name": "A2 - 🔥 FilterBreak NewGen 01",
+            "friendly_name": "A2 - 🥷 FilterBreak NewGen 01",
             "sausage": "",
             "payload": "CONNECT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][cr][cr][rand] / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Cache-Control: 604800[crlf][crlf]",
             "query": "normal",
@@ -241,7 +241,7 @@
         {
             "port": "80",
             "host": "www.pingdom.net",
-            "friendly_name": "A2 - 🔥 FilterBreak NewGen 02",
+            "friendly_name": "A2 - 🥷 FilterBreak NewGen 02",
             "sausage": "",
             "payload": "CONNECT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][cr][cr][rand] / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Cache-Control: 604800[crlf][crlf]",
             "query": "normal",
@@ -258,7 +258,7 @@
         {
             "port": "80",
             "host": "trendyol.com",
-            "friendly_name": "A2 - 🔥 FilterBreak NewGen 03",
+            "friendly_name": "A2 - 🥷 FilterBreak NewGen 03",
             "sausage": "",
             "payload": "CONNECT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][cr][cr][rand] / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Cache-Control: 604800[crlf][crlf]",
             "query": "normal",
@@ -275,7 +275,7 @@
         {
             "port": "80",
             "host": "www.newmetrics.net",
-            "friendly_name": "A2 - 🔥 FilterBreak NewGen 04",
+            "friendly_name": "A2 - 🥷 FilterBreak NewGen 04",
             "sausage": "",
             "payload": "CONNECT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][cr][cr][rand] / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Cache-Control: 604800[crlf][crlf]",
             "query": "normal",
@@ -292,7 +292,7 @@
         {
             "port": "80",
             "host": "udemy.com",
-            "friendly_name": "A2 - 🔥 FilterBreak NewGen 05",
+            "friendly_name": "A2 - 🥷 FilterBreak NewGen 05",
             "sausage": "",
             "payload": "CONNECT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][cr][cr][rand] / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Cache-Control: 604800[crlf][crlf]",
             "query": "normal",
@@ -309,7 +309,7 @@
         {
             "port": "80",
             "host": "customs.gov.mv",
-            "friendly_name": "A2 - 🔥 FilterBreak NewGen 06",
+            "friendly_name": "A2 - 🥷 FilterBreak NewGen 06",
             "sausage": "",
             "payload": "CONNECT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][cr][cr][rand] / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Cache-Control: 604800[crlf][crlf]",
             "query": "normal",
@@ -326,7 +326,7 @@
         {
             "port": "80",
             "host": "www.testmy.net",
-            "friendly_name": "A2 - 🔥 FilterBreak NewGen 07",
+            "friendly_name": "A2 - 🥷 FilterBreak NewGen 07",
             "sausage": "",
             "payload": "CONNECT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][cr][cr][rand] / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Cache-Control: 604800[crlf][crlf]",
             "query": "normal",
@@ -343,7 +343,7 @@
         {
             "port": "80",
             "host": "www.whatismyip.com",
-            "friendly_name": "A2 - 🔥 FilterBreak NewGen 08",
+            "friendly_name": "A2 - 🥷 FilterBreak NewGen 08",
             "sausage": "",
             "payload": "CONNECT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][cr][cr][rand] / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Cache-Control: 604800[crlf][crlf]",
             "query": "normal",
@@ -360,7 +360,7 @@
         {
             "port": "80",
             "host": "www.ipchicken.com",
-            "friendly_name": "A2 - 🔥 FilterBreak NewGen 09",
+            "friendly_name": "A2 - 🥷 FilterBreak NewGen 09",
             "sausage": "",
             "payload": "CONNECT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][cr][cr][rand] / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Cache-Control: 604800[crlf][crlf]",
             "query": "normal",
@@ -377,7 +377,7 @@
         {
             "port": "80",
             "host": "db-ip.com",
-            "friendly_name": "A2 - 🔥 FilterBreak NewGen 10",
+            "friendly_name": "A2 - 🥷 FilterBreak NewGen 10",
             "sausage": "",
             "payload": "CONNECT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][cr][cr][rand] / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Cache-Control: 604800[crlf][crlf]",
             "query": "normal",
@@ -496,7 +496,7 @@
         {
             "port": "80",
             "host": "www.whatismyip.org",
-            "friendly_name": "A - 🔥 IP Breaker",
+            "friendly_name": "A - 🥷 IP Breaker",
             "sausage": "",
             "payload": "CONNECT /[rotate=[fh]]/ HTTP/1.1[crlf]Host: [rotate=[bh]][cr][cr][rand] / HTTP/1.1[crlf]Host: [cf][crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Cache-Control: 604800[crlf][crlf]",
             "query": "normal",
