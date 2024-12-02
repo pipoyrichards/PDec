@@ -1538,7 +1538,7 @@
     "Free_servers": [
         {
             "server_name": "🌍 UDP Global",
-            "server_host": "uk1.danewax.xyz;uk2.danewax.xyz;uk3.danewax.xyz;uk4.danewax.xyz;uk5.danewax.xyz;ut1.danewax.xyz;wa1.danewax.xyz;wa2.danewax.xyz;wa3.danewax.xyz;la1.danewax.xyz;la2.danewax.xyz;la3.danewax.xyz;ny1.danewax.xyz;ny2.danewax.xyz;ny3.danewax.xyz;nl1.danewax.xyz;nl3.danewax.xyz",
+            "server_host": "udp1.maxcdnify.org;udp2.maxcdnify.org;udp3.maxcdnify.org;udp4.maxcdnify.org;udp5.maxcdnify.org;udp6.maxcdnify.org;udp7.maxcdnify.org;udp8.maxcdnify.org;udp9.maxcdnify.org;udp10.maxcdnify.org;udp11.maxcdnify.org;udp12.maxcdnify.org;udp13.maxcdnify.org;udp14.maxcdnify.org;udp15.maxcdnify.org;udp16.maxcdnify.org;udp17.maxcdnify.org;udp18.maxcdnify.org;udp19.maxcdnify.org;udp20.maxcdnify.org;udp21.maxcdnify.org;udp22.maxcdnify.org;udp23.maxcdnify.org;udp24.maxcdnify.org;udp25.maxcdnify.org;udp26.maxcdnify.org;udp27.maxcdnify.org;udp28.maxcdnify.org;udp29.maxcdnify.org;udp30.maxcdnify.org;udp31.maxcdnify.org;udp32.maxcdnify.org;udp33.maxcdnify.org;udp34.maxcdnify.org;udp35.maxcdnify.org;udp36.maxcdnify.org;udp37.maxcdnify.org;udp38.maxcdnify.org;udp39.maxcdnify.org;udp40.maxcdnify.org;udp41.maxcdnify.org;udp42.maxcdnify.org;udp43.maxcdnify.org;udp44.maxcdnify.org;udp45.maxcdnify.org;udp46.maxcdnify.org;udp47.maxcdnify.org;udp48.maxcdnify.org;udp49.maxcdnify.org;udp50.maxcdnify.org",
             "server_port": "",
             "server_udp_port": "",
             "ssl_port": "",
@@ -1792,6 +1792,6 @@
     "Premium_servers": [],
     "Vip_servers": [],
     "Private_servers": [],
-    "Version": "14.1:62.0",
+    "Version": "14.2:62.0",
     "Changelogs": "🌎 Tweaks Reconfigured\n\nSelect Auto Select Server for Best Performance\nبرای بهترین عملکرد، Auto Select Server را انتخاب کنید\nIň oňat öndürijilik üçin Auto Select Server saýlaň\n\n- If not connected, please try other network options from this app\n- اگر متصل نیستید، لطفاً سایر گزینه های شبکه را از این برنامه امتحان کنید\n- Baglanmadyk bolsaňyz, bu programmadan beýleki ulgam opsiýalaryny synap görüň"
 }
