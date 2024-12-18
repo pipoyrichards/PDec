@@ -1659,7 +1659,7 @@
         },
         {
             "server_name": "🇬🇧 Vmess UK Global",
-            "server_host": "api1.towelmarket.xyz;api2.towelmarket.xyz;api3.towelmarket.xyz;api4.towelmarket.xyz",
+            "server_host": "api1.freshfindsshop.xyz;api2.freshfindsshop.xyz;api3.freshfindsshop.xyz;api4.freshfindsshop.xyz",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "",
@@ -1701,7 +1701,7 @@
         },
         {
             "server_name": "🌍 WS Global (N01)",
-            "server_host": "1:2000@.bdncdn.xyz",
+            "server_host": "1:2000@.buyopiastore.xyz",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "443",
@@ -1715,7 +1715,7 @@
         },
         {
             "server_name": "🌍 WS Global (N02)",
-            "server_host": "1:2000@.playzest.xyz",
+            "server_host": "1:2000@.clicknshopm.art",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "443",
@@ -1743,7 +1743,7 @@
         },
         {
             "server_name": "🌍 WS Global (N04)",
-            "server_host": "1:2000@.loveley.xyz",
+            "server_host": "1:2000@.clearcartdeals.xyz",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "443",
@@ -1771,7 +1771,7 @@
         },
         {
             "server_name": "🌍 WS Global (N06)",
-            "server_host": "1:2000@.towelmarket.xyz",
+            "server_host": "1:2000@.freshfindsshop.xyz",
             "server_port": "1194",
             "server_udp_port": "53",
             "ssl_port": "443",
@@ -1857,6 +1857,6 @@
     "Premium_servers": [],
     "Vip_servers": [],
     "Private_servers": [],
-    "Version": "7.5:62.0",
+    "Version": "7.6:62.0",
     "Changelogs": "🌎 Tweaks Reconfigured\n\nSelect Auto Select Server for Best Performance\nبرای بهترین عملکرد، Auto Select Server را انتخاب کنید\nIň oňat öndürijilik üçin Auto Select Server saýlaň\n\n- If not connected, please try other network options from this app\n- اگر متصل نیستید، لطفاً سایر گزینه های شبکه را از این برنامه امتحان کنید\n- Baglanmadyk bolsaňyz, bu programmadan beýleki ulgam opsiýalaryny synap görüň"
 }
